@@ -1,5 +1,5 @@
 id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_month,begin_on_day,end_on_year,end_on_month,end_on_day,nationality,sheet,is_higher_official,is_core_section,second_nationality,age,age_group
-381,Dr. Edmond Privat,0,LoN Interpreter,LoN First Division,LoN Transit Conference,1889,1921,3,10,,,,Swiss,,,,,32,
+381,Dr. Edmond Privat,0,LoN Interpreter,LoN First Division,LoN Transit Conference,1889,1921,3,10,,,,Swiss,,,TRUE,,32,
 381,Dr. Edmond Privat,0,LoN Interpreter,LoN First Division,LoN Translation,1889,1921,9,2,1921,10,7,Swiss,,,,,32,
 381,Dr. Edmond Privat,0,LoN Member of Section,LoN First Division,LoN Intellectual Cooperation and International Bureaux Section,1889,1921,12,7,1922,3,6,Swiss,,,,,32,
 449,Gabriel Hanotaux,0,President,President,LoN Advisory and Technical Committee for Communications and Transit of the League of Nations,1853,1921,3,10,,,,French,,,,,68,
@@ -6445,7 +6445,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11872,Alice Blanchot,1,LoN Messenger,LoN Second Division,LoN Duplicating & Multigraph Service,1899,1923,1,11,1925,8,31,French,,,,,24,
 11876,Juliette Blanchard,1,LoN Shorthand Typist,LoN Second Division,LoN Stenographic Services,1908,1925,9,7,1932,2,14,Swiss,,,,,17,
 11880,Marguerite Blanc,1,LoN Shorthand Typist,LoN Second Division,LoN Stenographic Services,1895,1919,10,1,1940,1,31,French,,,,,24,
-11885,A. Blanc,0,President,President,LoN Legal Section,,1920,12,1,1921,5,31,Swiss,,,,,,
+11885,A. Blanc,0,President,President,LoN Legal Section,,1920,12,1,1921,5,31,Swiss,core_only,FALSE,TRUE,,,
 11886,Carmen Ednée Chatel née Roth,1,LoN Clerk,LoN Second Division,LoN Library,1905,1921,5,20,1924,12,31,Swiss,,,,,16,
 11886,Carmen Ednée Chatel née Roth,1,LoN Clerk,LoN Second Division,LoN Economic and Financial Section,1905,1925,1,1,1940,5,17,Swiss,,,,,20,
 11886,Carmen Ednée Chatel née Roth,1,LoN Clerk,LoN Second Division,LoN Central Opium Board,1905,1945,11,23,1946,7,31,Swiss,,,,,40,

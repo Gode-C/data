@@ -159,7 +159,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4942,Jules Vecozois,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,1884,1927,5,23,1927,6,20,Latvian,,,,,43,,
 4942,Jules Vecozois,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,1884,1927,9,1,1927,9,15,Latvian,,,,,43,,
 4943,Marc Veillet-Lavallee,0,LoN Member of Section,LoN First Division,LoN Health Section,1901,1927,6,7,1940,12,31,French,,,,,26,,
-4943,Marc Veillet-Lavallee,0,LoN unspecified,LoN Unspecified,LoN Personnel Office,1901,1931,5,18,1931,11,22,French,,,,,30,,Only says he worked in the Personnel office
+4943,Marc Veillet-Lavallee,0,LoN unspecified,LoN Unspecified,LoN Personnel Office,1901,1931,5,18,1931,11,22,French,,,,,30,,
 4944,Paul Veismanis,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1935,9,5,1935,9,26,Latvian,,,,,,,
 4945,Dr. Theodor Veiter,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1937,9,9,1937,9,30,Austrian,,,,,,,
 4946,Felix Vejarano,0,LoN Member of Section,LoN First Division,LoN Intellectual Cooperation and International Bureaux Section,1910,1936,8,5,1941,8,4,Spanish,,,,,26,,
@@ -167,11 +167,11 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4948,Eugène Henri René Vigier,0,LoN Assistant,LoN Second Division,LoN Information Section,1886,1920,3,3,1921,2,18,French,,,,,34,,
 4948,Eugène Henri René Vigier,0,LoN Head of Department,LoN First Division,LoN Précis-Writing Department,1886,1921,2,18,1946,8,31,French,,,,,35,,
 4948,Eugène Henri René Vigier,0,LoN Head of Department,LoN First Division,LoN Printing & Publishing Department,1886,1921,2,18,1946,8,31,French,,,,,35,,
-10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1921,8,15,1922,8,28,British,,,,,33,,info from short staff files
-10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1922,8,28,1923,8,23,British,,,,,21,,info from short staff files
-10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1923,8,23,1924,8,25,British,,,,,,,info from short staff files
-10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1924,8,25,1925,2,20,British,,,,,,,info from short staff files
-10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1925,2,20,1925,2,28,British,,,,,0,,info from short staff files
+10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1921,8,15,1922,8,28,British,,,,,33,,
+10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1922,8,28,1923,8,23,British,,,,,21,,
+10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1923,8,23,1924,8,25,British,,,,,,,
+10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1924,8,25,1925,2,20,British,,,,,,,
+10081,Iris Silburn James,1,LoN Clerk,LoN Second Division,LoN Distribution of Documents,1892,1925,2,20,1925,2,28,British,,,,,0,,
 4948,Eugène Henri René Vigier,0,LoN Member of Section,LoN First Division,LoN Political Section,1886,1927,1,1,1931,4,1,French,,,,,41,,
 4948,Eugène Henri René Vigier,0,LoN Counsellor,LoN Second Division,LoN Political Section,1886,1931,4,2,1938,1,31,French,,,,,45,,
 4948,Eugène Henri René Vigier,0,LoN Chief of Section,LoN First Division,LoN Political Section,1886,1938,2,1,1946,8,31,French,,,,,52,,
@@ -180,13 +180,13 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4948,Eugène Henri René Vigier,0,LoN Head of Department,LoN First Division,LoN Library,1886,1941,1,1,1946,8,31,French,,,,,55,,
 4949,Francisco Urrutia,0,LoN Correspondent,LoN Second Division,LoN Information Section,1910,1930,6,15,1946,4,30,Colombian,,,,,20,,
 4950,Franklin Urteaga,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1938,9,10,1938,10,1,Peruvian,,,,,,,
-5409,Elemér de Radisics,0,LoN Correspondent,LoN Second Division,LoN Information Section,,1931,1,1,1931,6,22,"Hungarian	",,,,,,,Info from short staff files
+5409,Elemér de Radisics,0,LoN Correspondent,LoN Second Division,LoN Information Section,,1931,1,1,1931,6,22,"Hungarian	",,,,,,,
 11011,Albert Rousselle,0,LoN Cyclist,LoN Third Division,LoN Auxiliary Staff,1890,1931,9,28,1932,8,15,French,,,,,,,
 4952,Pierre Achille Louis Eugène Quesnay,0,LoN Member of Section,LoN First Division,LoN Economic and Financial Section,,1923,11,15,1926,12,31,French,,,,,,,
 4953,Anwar Iqbal Qureshi,0,LoN Temporary Collaborator,LoN First Division,LoN Economic and Financial Section,1910,1939,3,13,1939,6,12,Indian,,,,,29,,
 4954,Annikki Paasikivi,1,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1934,1,15,1934,12,31,Finish,,,,,,,
 4955,John Leslie Palmer,0,LoN Member of Section,LoN First Division,LoN Précis-Writing Department,,1919,1,10,1936,,,British,,,,,,,
-10094,Constant Jaques,0,LoN Clerk,LoN Second Division,LoN Registry,1906,1927,11,28,1928,2,6,Swiss,,,,,,,Info from short staff files
+10094,Constant Jaques,0,LoN Clerk,LoN Second Division,LoN Registry,1906,1927,11,28,1928,2,6,Swiss,,,,,,,
 4955,John Leslie Palmer,0,LoN Member of Section,LoN First Division,LoN Information Section,,1931,,,1938,,,British,,,,,,,
 4955,John Leslie Palmer,0,LoN Member of Section,LoN First Division,LoN Social Questions and Opium Traffic Section,,1938,,,1939,3,24,British,,,,,,,
 8485,Alfred Adams,0,LoN House Staff,LoN Third Division,LoN Auxiliary Staff,,,,,1920,3,19,,,,,,0,,
@@ -380,7 +380,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5113,Prof. José Pijoan,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1930,8,1,1930,10,1,Spanish,,,,,,,
 5114,Werner Karl August Günther von Schmieden,0,LoN Member of Section,LoN First Division,LoN Intellectual Cooperation and International Bureaux Section,1892,1927,2,5,1933,12,14,German,,,,,35,,
 5114,Werner Karl August Günther von Schmieden,0,LoN Secretary,LoN Second Division,LoN Commission of the Enquiry into Traffic of Women & Children in the East,1892,1930,9,17,1932,6,26,German,,,,,38,,
-5114,Werner Karl August Günther von Schmieden,0,LoN unspecified,LoN Unspecified,LoN Under-Secretary-General's Office,1892,1932,11,1,1933,12,14,German,,,,,40,,Only says he worked at the Office of the Under Secretary General
+5114,Werner Karl August Günther von Schmieden,0,LoN unspecified,LoN Unspecified,LoN Under-Secretary-General's Office,1892,1932,11,1,1933,12,14,German,,,,,40,,
 5115,Purushottama Padmanabha Pillai,0,LoN Member of Section,LoN First Division,LoN Economic and Financial Section,,1924,2,25,1927,10,17,Indian,,,,,,,
 5117,M.L. Pin Malakul,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1931,8,31,1931,9,20,Siamese,,,,,,,
 10704,Catherine Zani,1,LoN Secretary Shorthand-Typist,LoN Second Division,LoN Under Secretary-Generals' in charge of Internal Administration Office,1898,1926,1,1,,,,Italian,,,,,,,
@@ -477,7 +477,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5194,Léon Steinig,0,LoN Member of Section,LoN First Division,LoN Social Questions and Opium Traffic Section,1898,1930,2,6,1946,7,31,Austrian,,,,,32,,
 5195,Maria Elisabeth Ottilia de Steller,1,LoN Member of Section,LoN First Division,LoN Social Questions and Opium Traffic Section,1898,1935,6,1,1940,7,13,"Hungarian	",,,,,37,,
 5196,Valentin Joseph Stencek,0,LoN Member of Section,LoN First Division,LoN Economic and Financial Section,1884,1921,6,10,1933,9,15,Czech,,,,,37,,
-5196,Valentin Joseph Stencek,0,LoN Head of Department,LoN First Division,LoN Under-Secretary-General's Office,1884,1933,9,15,1937,1,1,Czech,,,,,49,,General for internal administration
+5196,Valentin Joseph Stencek,0,LoN Head of Department,LoN First Division,LoN Under-Secretary-General's Office,1884,1933,9,15,1937,1,1,Czech,,,,,49,,
 5196,Valentin Joseph Stencek,0,LoN Director,LoN First Division,LoN League of Nations,1884,1937,1,1,1947,10,25,Czech,,,,,53,,
 5197,Greta Stendahl,1,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1934,9,7,1934,9,28,Swedish,,,,,,,
 5198,Dr. Ivo Stern,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1931,9,7,1931,9,14,"Yugoslav	",,,,,,,
@@ -507,7 +507,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5215,Dr. Michel Ciuca,0,LoN Expert/Specialist,LoN First Division,LoN Health Section,1883,1938,11,1,1940,2,29,Romanian,,,,,55,,
 5216,Henri Cochaux,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1937,9,12,1937,10,3,Belgian,,,,,,,
 5217,Denis Joseph Coffey,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,1909,1937,9,9,1937,9,30,Irish,,,,,28,,
-5275,Clovis Kernisan,0,LoN Delegate,LoN Second Division,LoN League of Nations,1885,1930,12,1,1932,12,1,Haitian,,,,,,,Can't find this contract
+5275,Clovis Kernisan,0,LoN Delegate,LoN Second Division,LoN League of Nations,1885,1930,12,1,1932,12,1,Haitian,,,,,,,
 5219,M. Swetovksi,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1931,8,31,1931,9,21,Russian,,,,,,,
 5220,Edgar Sydenstricker,0,LoN Chief of Service,LoN First Division,LoN Health Section,1881,1923,1,16,1924,3,25,"US-American	",,,,,42,,
 5221,Konstanty Symonolewicz,0,LoN Member of Section,LoN First Division,LoN Information Section,,1937,9,9,1937,9,30,Polish,,,,,,,
@@ -518,7 +518,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5226,Pierre Combret de Lanux,0,LoN Correspondent,LoN Second Division,LoN Paris Office,1887,1924,5,8,1934,6,30,French,,,,,37,,
 5227,R.T.E. Latham,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1936,9,17,1936,10,15,British,,,,,,,
 5228,Walter Layton,0,LoN Director,LoN First Division,LoN Economic and Financial Section,1884,1920,4,1,1930,8,14,British,,,,,36,,
-5229,Paul Leclercq,0,LoN Member of Section,LoN First Division,LoN Information Section,,1919,8,16,1920,10,17,,,,,,,,First name not mentioned before
+5229,Paul Leclercq,0,LoN Member of Section,LoN First Division,LoN Information Section,,1919,8,16,1920,10,17,,,,,,,,
 5231,Essy Hjördis Lehmann,1,LoN Assistant,LoN Second Division,LoN Communications and Transit Section,1893,1921,6,27,1922,1,1,Swedish,,,,,28,,
 5231,Essy Hjördis Lehmann,1,LoN Assistant,LoN Second Division,LoN Economic and Financial Section,1893,1921,5,5,1921,6,27,Swedish,,,,,28,,
 5231,Essy Hjördis Lehmann,1,LoN Senior Assistant,LoN Second Division,LoN Communications and Transit Section,1893,1922,1,1,1923,1,1,Swedish,,,,,29,,
@@ -595,7 +595,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5286,Dr. A. A. Koskenjaakko,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1931,8,31,1931,9,21,Norwegian,,,,,,,
 5287,Hans-Ulrich von Kotze,0,LoN Member of Section,LoN First Division,LoN Under-Secretary-General's Office,1891,1930,9,17,1933,2,28,German,,,,,39,,
 5288,Ludwig Thorwald de Krabbe,0,LoN Member of Section,LoN First Division,LoN Information Section,1884,1921,4,1,1931,4,16,Dane,,,,,37,,
-5288,Ludwig Thorwald de Krabbe,0,LoN unspecified,LoN Unspecified,LoN League of Nations,1884,1924,8,1,1925,12,31,Dane,,,,,40,,"Not sure if actual position it says ""Collaborated with General Commissioner of League of Nations in Vienna"""
+5288,Ludwig Thorwald de Krabbe,0,LoN unspecified,LoN Unspecified,LoN League of Nations,1884,1924,8,1,1925,12,31,Dane,,,,,40,,
 5288,Ludwig Thorwald de Krabbe,0,LoN Member of Section,LoN First Division,LoN Administrative Commissions and Minorities Section,1884,1931,4,16,1933,10,27,Dane,,,,,47,,
 5288,Ludwig Thorwald de Krabbe,0,LoN Member of Section,LoN First Division,LoN Political Section,1884,1935,10,27,1939,4,30,Dane,,,,,51,,
 5289,Pipat Krairiksh,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1938,9,10,1938,10,1,Siamese,,,,,,,
@@ -728,7 +728,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5395,Kathleen Mulchrone,1,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1929,8,19,1929,9,9,British,,,,,,,
 5396,Guido Crolla,0,LoN Member of Section,LoN First Division,LoN Under Secretary-Generals' in charge of Internal Administration Office,1897,1931,1,12,1933,1,1,Italian,,,,,34,,
 5396,Guido Crolla,0,LoN Member of Section,LoN First Division,LoN Political Section,1897,1933,1,1,1934,11,4,Italian,,,,,36,,
-5397,Ken Harada,0,LoN Personal Assistant,LoN First Division,LoN League of Nations,1892,1920,2,16,1927,1,15,Japanese,,,,,28,,"Nationality not mentioned, but born in Japan"
+5397,Ken Harada,0,LoN Personal Assistant,LoN First Division,LoN League of Nations,1892,1920,2,16,1927,1,15,Japanese,,,,,28,,
 5397,Ken Harada,0,LoN Member of Section,LoN First Division,LoN Political Section,1892,1927,1,15,1938,12,15,Japanese,,,,,35,,
 5398,Dr. Sonti Dakshinamurty,0,LoN Expert/Specialist,LoN First Division,LoN League of Nations,1899,1940,7,1,1942,2,10,Indian,,,,,41,,
 5399,John Mulgan,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1936,9,17,1936,10,15,British,,,,,,,
@@ -813,8 +813,8 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5456,Sir Eric Drummond,0,LoN Secretary-General,LoN First Division,LoN Secretary-General's Office,1876,1919,5,5,1933,6,30,British,,,,,43,,
 5457,William Martin Hill,0,LoN Member of Section,LoN First Division,LoN Economic and Financial Section,1905,1927,10,3,1934,2,8,British,,,,,22,,
 5457,William Martin Hill,0,LoN Member of Section,LoN First Division,LoN Under Secretaries-Generals' in charge of Political Section Office,1905,1934,2,8,1939,6,12,British,,,,,29,,
-5457,William Martin Hill,0,LoN unspecified,LoN Unspecified,LoN League of Nations,1905,1939,6,12,1940,1,1,British,,,,,34,,Attached to Department I
-5457,William Martin Hill,0,LoN unspecified,LoN Unspecified,LoN League of Nations,1905,1940,1,1,1945,6,27,British,,,,,35,,Provisionally attached to Department II
+5457,William Martin Hill,0,LoN unspecified,LoN Unspecified,LoN League of Nations,1905,1939,6,12,1940,1,1,British,,,,,34,,
+5457,William Martin Hill,0,LoN unspecified,LoN Unspecified,LoN League of Nations,1905,1940,1,1,1945,6,27,British,,,,,35,,
 5457,William Martin Hill,0,LoN Personal Assistant,LoN First Division,LoN Secretary-General's Office,1905,1945,7,26,1946,5,7,British,,,,,40,,
 5458,Reverend Dubois,0,LoN Temporary Collaborator,LoN First Division,LoN Information Section,,1938,9,9,1938,9,30,French,,,,,,,
 5459,Brian Durnin,0,LoN Expert/Specialist,LoN First Division,LoN Information Section,1912,1938,9,12,1940,12,31,Irish,,,,,26,,
@@ -969,7 +969,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5506,Dr. Hoops,0,LoN Deputy Director,LoN First Division,LoN Health Section,,1929,7,19,,,,British,,,,,,,
 8486,Marie Daase née Aeschimann,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1895,1936,9,28,1936,10,10,Swiss,,,,,41,,
 8487,Yvonne Caillat,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1896,1946,4,4,1946,4,18,Swiss,,,,,50,,
-8488,Ethel Willox Adie,1,LoN Unspecified,LoN Unspecified,LoN League of Nations,1889,1921,4,,1922,6,30,British,,,,,32,,"International Credits, League of Nations, London"
+8488,Ethel Willox Adie,1,LoN Unspecified,LoN Unspecified,LoN League of Nations,1889,1921,4,,1922,6,30,British,,,,,32,,
 8488,Ethel Willox Adie,1,LoN Shorthand Typist,LoN Second Division,LoN Transit Conference at Barcelona,1889,1921,3,4,1921,4,,British,,,,,32,,
 8489,Alan Ebbutt,0,LoN Translator,LoN First Division,LoN Précis-Writing Department,1898,1922,7,31,1922,9,30,British,,,,,24,,
 8489,Alan Ebbutt,0,LoN Translator,LoN First Division,LoN Précis-Writing Department,1898,1922,10,26,1924,10,15,British,,,,,24,,
@@ -1845,7 +1845,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9105,Paul Meisterlein,0,LoN Messenger,LoN Second Division,LoN Distribution of Documents,1910,1932,12,5,1932,12,20,Swiss,,,,,22,,
 9105,Paul Meisterlein,0,LoN Messenger,LoN Second Division,LoN Distribution of Documents,1910,1933,1,30,1933,2,4,Swiss,,,,,23,,
 9109,Constance Babianska,1,LoN Statistician,LoN First Division,LoN Health Section,1901,1929,5,3,1930,9,7,Polish,,,,,28,,
-11553,Ethel Hopgood,1,LoN Assistant Translator,LoN First Division,LoN Pool,,1920,11,15,1921,,,British,,,,,,,Worked in first assembly. Start date is not mentioned
+11553,Ethel Hopgood,1,LoN Assistant Translator,LoN First Division,LoN Pool,,1920,11,15,1921,,,British,,,,,,,
 9113,Agnes Henderson Meldrum née Archibald,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1901,1927,3,15,1931,7,31,British,,,,,26,,
 9113,Agnes Henderson Meldrum née Archibald,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1901,1932,9,28,1932,10,13,British,,,,,31,,
 9113,Agnes Henderson Meldrum née Archibald,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1901,1933,9,25,1933,10,1,British,,,,,32,,
@@ -2540,7 +2540,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9535,Helen Otten née Golding,1,LoN Clerk,LoN Second Division,LoN China Liaison Committee,1896,1937,11,22,1940,6,30,Swiss,,,,,41,,
 9535,Helen Otten née Golding,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1896,1937,7,1,1937,11,21,Swiss,,,,,41,,
 9535,Helen Otten née Golding,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1896,1947,8,1,1947,8,19,Swiss,,,,,51,,
-9536,Suzanne Otten,1,LoN Stenographer,LoN Second Division,LoN London Office,,1919,12,8,,,,Belgian,,,,,,,LONTAD questions the nationality
+9536,Suzanne Otten,1,LoN Stenographer,LoN Second Division,LoN London Office,,1919,12,8,,,,Belgian,,,,,,,
 9537,M. C. Owen,1,LoN Typist,LoN Second Division,LoN Duplicating & Multigraph Service,,1920,10,19,1920,12,31,British,,,,,,,
 9538,Maxime Aristide Ouvrard,0,LoN Verbatim Reporter,LoN Second Division,LoN Précis-Writing Department,1899,1928,9,3,1928,9,26,French,,,,,29,,
 9538,Maxime Aristide Ouvrard,0,LoN Verbatim Reporter,LoN Second Division,LoN Précis-Writing Department,1899,1928,12,5,1928,12,15,French,,,,,29,,
@@ -3385,7 +3385,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10010,Alice Sack,1,LoN Nurse,LoN Third Division,LoN Health Section,1902,1937,9,13,1937,10,6,Swiss,,,,,35,,
 10011,Michael Sadler,0,LoN Assistant,LoN Second Division,LoN Economic and Financial Section,,1920,7,1,1920,10,2,British,,,,,,,
 10011,Michael Sadler,0,LoN Assistant,LoN Second Division,LoN Economic and Financial Section,,1920,11,10,1920,12,31,British,,,,,,,
-9496,Giula Nuvoloni,1,LoN Assistant,LoN Second Division,LoN Library,1889,,,,,,,Italian,,,,,,,"offered a post, letter concerning this, is in the file"
+9496,Giula Nuvoloni,1,LoN Assistant,LoN Second Division,LoN Library,1889,,,,,,,Italian,,,,,,,
 10013,Eugènie Saegesser-Wagnière,1,LoN Copyist,LoN Second Division,LoN Pool,1893,1927,5,4,1927,5,11,Swiss,,,,,34,,
 10015,Marcelle Colette Safonoff,1,LoN Copyist,LoN Second Division,LoN Duplicating & Multigraph Service,1914,1937,5,24,1937,5,29,Swiss,,,,,23,,
 10015,Marcelle Colette Safonoff,1,LoN Copyist,LoN Second Division,LoN Duplicating & Multigraph Service,1914,1937,6,11,1937,6,24,Swiss,,,,,23,,
@@ -3979,9 +3979,9 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10392,René Ulrich,0,LoN Messenger,LoN Second Division,LoN Library,1907,1925,6,15,1931,4,1,Swiss,,,,,18,,
 10392,René Ulrich,0,LoN Clerk,LoN Second Division,LoN Library,1907,1931,4,1,1946,7,31,Swiss,,,,,24,,
 10393,Elisa Jebsen,1,LoN Librarian,LoN First Division,LoN Library,1885,1925,1,5,1940,5,17,Norwegian,,,,,40,,
-10394,Frances Olive Underhill,1,LoN Unspecified,LoN Second Division,LoN Brussels Conference,1883,1920,9,,1920,11,,British,,,,,37,,position is not specified
-10394,Frances Olive Underhill,1,LoN Unspecified,LoN Second Division,LoN Internal Administration,1883,1920,11,10,1921,1,1,British,,,,,37,,position is not specified
-10394,Frances Olive Underhill,1,LoN Unspecified,LoN Second Division,LoN Financial Section & Economic Intelligence Service,1883,1921,1,1,1921,4,30,British,,,,,38,,position is not specified
+10394,Frances Olive Underhill,1,LoN Unspecified,LoN Second Division,LoN Brussels Conference,1883,1920,9,,1920,11,,British,,,,,37,,
+10394,Frances Olive Underhill,1,LoN Unspecified,LoN Second Division,LoN Internal Administration,1883,1920,11,10,1921,1,1,British,,,,,37,,
+10394,Frances Olive Underhill,1,LoN Unspecified,LoN Second Division,LoN Financial Section & Economic Intelligence Service,1883,1921,1,1,1921,4,30,British,,,,,38,,
 10396,Yvonne Excoffier,1,LoN Assistant,LoN Second Division,LoN Auxiliary Staff,1902,1924,10,22,1924,12,31,French,,,,,22,,
 10396,Yvonne Excoffier,1,LoN Messenger,LoN Second Division,LoN Duplicating & Multigraph Service,1902,1924,9,1,1924,10,21,French,,,,,22,,
 10397,David Unwin,0,LoN Temporary Collaborator,LoN First Division,LoN Publications Service,,1938,9,5,1938,12,6,British,,,,,,,
@@ -4805,7 +4805,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10857,Margaret Frances Waley Joseph,1,LoN Précis Writer,LoN First Division,LoN Pool,1910,1946,4,7,1946,4,18,British,,,,,36,,
 10858,Denise Rose Josephs née Dreyfus-Lang,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1908,1936,6,22,1940,11,30,French,,,,,28,,
 10859,René Josi,0,LoN Messenger,LoN Second Division,LoN Pool,1907,1946,4,1,1946,7,31,Swiss,,,,,39,,
-10860,A. Joucla-Pelous,0,LoN Interpreter,LoN First Division,LoN Labour Conference At Washington,,1919,10,18,1919,12,31,French,,,,,,,Info from short staff files
+10860,A. Joucla-Pelous,0,LoN Interpreter,LoN First Division,LoN Labour Conference At Washington,,1919,10,18,1919,12,31,French,,,,,,,
 10861,René Jousson,0,LoN Messenger,LoN Second Division,LoN Pool,1912,1936,1,20,1940,5,17,Swiss,,,,,24,,
 10862,Louis Joxe,0,LoN Press Reader,LoN Second Division,LoN Paris Office,,1932,1,27,1933,12,31,French,,,,,,,
 10862,Louis Joxe,0,LoN Head of Office,LoN First Division,LoN Paris Office,,1933,3,21,1933,5,5,French,,,,,,,
@@ -4815,7 +4815,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10866,Michele Julien,1,LoN Secretary,LoN Second Division,LoN Pool,,1920,11,12,1920,12,17,British,,,,,,,
 10867,Gabrielle Juncker-Rohde,1,LoN Assistant,LoN Second Division,LoN Health Section,1904,1928,1,16,1939,7,1,Dane,,,,,24,,
 10867,Gabrielle Juncker-Rohde,1,LoN Member of Section,LoN First Division,LoN Health Section,1904,1939,7,1,1945,5,31,Dane,,,,,35,,
-10868,J. Junet,1,LoN Unspecified,LoN Unspecified,LoN Disarmament Section,,1922,8,12,1922,9,9,,,,,,,,Just says disarmament seciton
+10868,J. Junet,1,LoN Unspecified,LoN Unspecified,LoN Disarmament Section,,1922,8,12,1922,9,9,,,,,,,,
 10869,Marcel Gustave Jung,0,LoN Proof-Reader,LoN Second Division,LoN Printing & Publishing Department,1901,1931,7,14,1939,8,31,Swiss,,,,,30,,
 10870,Marion Jung,1,LoN Clerk,LoN Second Division,LoN Library,1913,1937,6,21,1939,12,31,Swiss,,,,,24,,
 10871,Rose Jung,1,LoN Clerk,LoN Second Division,LoN Library,1897,1923,11,16,1923,12,31,Swiss,,,,,26,,
@@ -4880,12 +4880,12 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10914,Helen Dougal Armet,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1902,1929,1,2,1929,10,25,British,,,,,27,,
 10915,Betty Lascelles Arne,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1900,1929,11,1,1929,12,3,British,,,,,29,,
 10916,Jean Arnold,0,LoN Messenger,LoN Second Division,LoN Pool,1908,1929,7,1,1930,1,8,Swiss,,,,,21,,
-10917,Ivan Clement Arnould,0,LoN Unspecified,LoN Unspecified,LoN Translation,1891,1919,9,1,1925,1,10,British,,,,,28,,Just says he served in the office
-10917,Ivan Clement Arnould,0,LoN Unspecified,LoN Unspecified,LoN Establishment Office,1891,1919,9,1,1925,1,10,British,,,,,28,,Just says he served in the office
-10917,Ivan Clement Arnould,0,LoN Unspecified,LoN Unspecified,LoN Internal Control,1891,1919,9,1,1925,1,10,British,,,,,28,,Just says he served in the office
+10917,Ivan Clement Arnould,0,LoN Unspecified,LoN Unspecified,LoN Translation,1891,1919,9,1,1925,1,10,British,,,,,28,,
+10917,Ivan Clement Arnould,0,LoN Unspecified,LoN Unspecified,LoN Establishment Office,1891,1919,9,1,1925,1,10,British,,,,,28,,
+10917,Ivan Clement Arnould,0,LoN Unspecified,LoN Unspecified,LoN Internal Control,1891,1919,9,1,1925,1,10,British,,,,,28,,
 10917,Ivan Clement Arnould,0,LoN Unspecified,LoN Unspecified,"LoN Russian Refugees Section
 
-",1891,1919,9,1,1925,1,10,British,,,,,28,,Just says he served in the office
+",1891,1919,9,1,1925,1,10,British,,,,,28,,
 10918,Laurits Thomas Arnskov,0,LoN Attaché,LoN First Division,LoN Information Section,1878,1925,10,1,1925,12,31,Dane,,,,,47,,
 10919,Manual Juan Arocha,0,LoN Liaison Officer,LoN First Division,LoN Information Section,1892,1922,11,1,1924,10,,"Venezuelan	",,,,,30,,
 10919,Manual Juan Arocha,0,LoN Member of Section,LoN First Division,LoN Disarmament Section,1892,1924,10,,1925,,,"Venezuelan	",,,,,32,,
@@ -5145,8 +5145,8 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11070,Suzanne Langlois,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1890,1929,4,9,1929,11,30,French,,,,,39,,
 11070,Suzanne Langlois,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1890,1930,9,10,1930,12,9,French,,,,,40,,
 11070,Suzanne Langlois,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1890,1931,6,19,1931,11,30,French,,,,,41,,
-11071,Muriel Grace Recano,1,LoN Secretary,LoN Second Division,LoN Pool,1888,1920,4,30,1921,1,1,British,,,,,32,,Secretary to Mr. Hammerskjold
-11071,Muriel Grace Recano,1,LoN Secretary,LoN Second Division,LoN Pool,1888,1921,1,1,1922,3,14,British,,,,,33,,Secretary to Anzilotti dept
+11071,Muriel Grace Recano,1,LoN Secretary,LoN Second Division,LoN Pool,1888,1920,4,30,1921,1,1,British,,,,,32,,
+11071,Muriel Grace Recano,1,LoN Secretary,LoN Second Division,LoN Pool,1888,1921,1,1,1922,3,14,British,,,,,33,,
 11072,Fernand Reck,0,LoN Messenger-Cyclist,LoN Third Division,LoN Library,1911,1932,6,1,1932,9,3,Swiss,,,,,21,,
 9370,Montandon,1,LoN House Staff,LoN Third Division,LoN Auxiliary Staff,,1924,,,,,,,,,,,1924,,
 11073,Clémentine Lanovaz,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1895,1935,7,8,1935,7,18,Swiss,,,,,40,,
@@ -5249,7 +5249,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11129,Oscar Retornaz,0,LoN Manutentionnaire,LoN Second Division,LoN Auxiliary Staff,1892,1927,3,25,1927,5,4,Swiss,,,,,35,,
 11130,Juliane Emilie de Bay,1,LoN Messenger,LoN Second Division,LoN Auxiliary Staff,1911,1926,9,1,1927,5,28,Swiss,,,,,15,,
 11131,A. Robert Reuhi,0,LoN Messenger,LoN Second Division,LoN Auxiliary Staff,,1921,9,1,1921,10,10,Swiss,,,,,,,
-11139,Robert Reuhi,0,LoN Clerk,LoN Second Division,LoN Personnel Office,1909,1926,7,12,1927,9,3,Swiss,,,,,44,,Info from short staff files 
+11139,Robert Reuhi,0,LoN Clerk,LoN Second Division,LoN Personnel Office,1909,1926,7,12,1927,9,3,Swiss,,,,,44,,
 11131,A. Robert Reuhi,0,LoN Messenger,LoN Second Division,LoN Auxiliary Staff,,1922,9,1,1923,8,23,Swiss,,,,,,,
 11131,A. Robert Reuhi,0,LoN Messenger,LoN Second Division,LoN Auxiliary Staff,,1923,8,24,1923,10,4,Swiss,,,,,,,
 11132,Pierre de Bay,0,LoN Messenger,LoN Second Division,LoN Information Section,1912,1930,9,8,1930,10,5,Swiss,,,,,18,,
@@ -6041,7 +6041,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11550,Adolphe Roth,0,LoN Cyclist,LoN Third Division,LoN Auxiliary Staff,,1922,8,28,1922,10,7,,,,,,,,
 11551,Simone Roth,1,LoN Clerk,LoN Second Division,LoN Economic and Financial Section,1907,1926,9,17,1926,10,31,Swiss,,,,,19,,
 11552,Lilian Hooper,1,LoN Stenographer,LoN Second Division,LoN Pool,,1920,2,12,1920,12,31,British,,,,,,,
-11632,René Samuel Cassin,0,LoN Personal Assistant,LoN First Division,LoN Secretary-General's Office,1887,1919,10,27,,,,French,"Prof de droit in Lille, personal assistant of Jean Monnet, but did he really show up?",,,,,,Accepted position. Starting date not mentioned in LONTAD
+11632,René Samuel Cassin,0,LoN Personal Assistant,LoN First Division,LoN Secretary-General's Office,1887,1919,10,27,,,,French,"Prof de droit in Lille, personal assistant of Jean Monnet, but did he really show up?",,,,,,
 11554,Joycelyn Horn,1,LoN Head of Department,LoN First Division,LoN Pool,1888,1919,12,1,1922,2,28,Australian,,,,,31,,
 11555,Denise Marceline Hornung,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1914,1935,5,16,1935,12,19,Swiss,,,,,21,,
 11555,Denise Marceline Hornung,1,LoN Shorthand Typist,LoN Second Division,LoN Pool,1914,1936,3,13,1936,5,30,Swiss,,,,,22,,
@@ -6128,7 +6128,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11594,Margaret Maud Baker-Mann,1,LoN Clerk,LoN Second Division,LoN Library,1878,1920,11,6,1936,5,31,Swiss,,,,,42,,
 11595,Suzanne Hélène Georgette Balasko,1,LoN Translator,LoN First Division,LoN Translation,1903,1926,2,7,1938,9,30,French,,,,,23,,
 11595,Suzanne Hélène Georgette Balasko,1,LoN Translator,LoN First Division,LoN Translation,1903,1937,9,6,1937,9,30,French,,,,,34,,
-11389,Roberds,1,LoN Stenographer,LoN Second Division,LoN Pool,,1919,5,22,,,,British,,,,,1919,,"LONTAD mentions an offered position, but not that he accepted"
+11389,Roberds,1,LoN Stenographer,LoN Second Division,LoN Pool,,1919,5,22,,,,British,,,,,1919,,
 11596,Pierre Bouscharain,0,LoN Translator,LoN First Division,LoN Social Questions and Opium Traffic Section,1891,1920,9,13,1940,5,18,French,,,,,29,,
 11597,Jeanne Caron,1,LoN Précis Writer,LoN First Division,LoN Précis-Writing Department,1887,1932,4,15,1932,12,16,French,,,,,45,,
 11597,Jeanne Caron,1,LoN Translator,LoN First Division,LoN Translation Section,1887,1932,4,15,1932,12,16,French,,,,,45,,

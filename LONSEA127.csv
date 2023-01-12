@@ -711,7 +711,9 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5378,Mohamed Mohamed Abd Moustafa el Moneim,0,Temporary Collaborator,First Division,Information Section,,1938,9,9,1938,9,30,Egyptian,,,,,,,
 5379,Berta Hamilton,1,Temporary Collaborator,First Division,Information Section,,1930,9,1,1930,9,22,Canadian,,,,,,,
 5380,Maurice Cornil,0,Temporary Collaborator,First Division,Information Section,,1931,9,31,1931,10,21,French,,,,,,,
-5381,Jean Daniel de Montenach,0,Member of Section,First Division,Political Section,1892,1920,3,10,1939,2,13,Swiss,,28,,,,,
+5381,Jean Daniel de Montenach,0,Member of Section,First Division,Political Section,1892,1920,3,10,1930,12,31,Swiss,,28,,,,,
+5381,Jean Daniel de Montenach,0,Member of Section,First Division,LoN Intellectual Cooperation and International Bureaux Section,1892,1931,1,1,1939,2,13,Swiss,,28,,,,,
+
 5382,Renato da Costa Almeida,0,Temporary Collaborator,First Division,Information Section,,1936,9,17,1936,10,17,"Brazilian	",,,,,,,
 5383,J. L. Cottle,0,Temporary Collaborator,First Division,Information Section,,1936,9,9,1936,9,30,British,,,,,,,
 5385,Maria Palancar Moreno,1,Temporary Collaborator,First Division,Information Section,,1930,9,8,1930,9,29,Spanish,,,,,,,

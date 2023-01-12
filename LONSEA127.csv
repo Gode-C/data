@@ -51,9 +51,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4863,Thchen-p'ong Yu,0,Temporary Collaborator,First Division,Social Questions and Opium Traffic Section,1909,1938,11,10,1939,2,28,Chinese,,29,,,,,
 4863,Thchen-p'ong Yu,0,Temporary Collaborator,First Division,Economic and Financial Section,1909,1938,9,1,1938,9,19,Chinese,,29,,,,,
 4864,Eugène Xammar,0,Member of Section,First Division,Information Section,,1920,9,1,1921,12,15,Spanish,,,,,,,
-4865,SoGeorge Xenakis,0,Accountant,Second Division,"Russian Refugees Section
-
-",1884,1923,1,16,1925,1,1,Greek,,39,,,,,
+4865,SoGeorge Xenakis,0,Accountant,Second Division,Russian Refugees Section,1884,1923,1,16,1925,1,1,Greek,,39,,,,,
 4865,SoGeorge Xenakis,0,Assistant,Second Division,Internal Control,1884,1925,1,1,1925,6,21,Greek,,41,,,,,
 4865,SoGeorge Xenakis,0,Member of Section,First Division,Internal Administration,1884,1938,1,1,1938,6,13,Greek,,54,,,,,
 4865,SoGeorge Xenakis,0,Member of Section,First Division,Information Section,1884,1938,6,13,1940,4,30,Greek,,54,,,,,
@@ -88,9 +86,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4883,Pierre Henry Watier,0,Director,First Division,Communications and Transit Section,1882,1937,2,15,1937,8,20,French,,55,,,,,
 4884,Esma Nayman,1,Temporary Collaborator,First Division,Information Section,,1936,9,17,1936,10,15,Turkish,,,,,,,
 4885,Raymond Watt,0,Temporary Collaborator,First Division,Information Section,,1931,8,31,1931,9,21,Australian,,,,,,,
-4886,Cuno de Watteville,0,Assistant High Commissioner,First Division,"Russian Refugees Section
-
-",,1922,2,15,1923,5,31,,,,,,,,
+4886,Cuno de Watteville,0,Assistant High Commissioner,First Division,Russian Refugees Section,,1922,2,15,1923,5,31,,,,,,,,
 4887,Stanislas Wedkiewicz,0,Temporary Collaborator,First Division,Information Section,,1928,10,18,1928,12,1,Polish,,,,,,,
 4887,Stanislas Wedkiewicz,0,Temporary Collaborator,First Division,Information Section,,1929,12,10,1929,12,31,Polish,,,,,,,
 4888,Heinz Weiss,0,Temporary Collaborator,First Division,Information Section,,1933,9,23,1933,9,30,German,,,,,,,
@@ -905,9 +901,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5527,Arthur Elliott Felkin,0,Member of Section,First Division,Economic and Financial Section,,1923,1,15,1938,6,30,British,,,,,,,
 5527,Arthur Elliott Felkin,0,Member of Section,First Division,Social Questions and Opium Traffic Section,,1938,7,1,1946,8,31,British,,,,,,,
 5528,Narciso de Freire de Anrade,0,Member of Section,First Division,Mandates Section,1899,1928,8,1,1934,5,31,Portugese,,29,,,,,
-5529,Wladimir Felkner,0,Temporary Collaborator,First Division,"Russian Refugees Section
-
-",,1930,7,15,1931,6,30,Russian,,,,,,,
+5529,Wladimir Felkner,0,Temporary Collaborator,First Division,Russian Refugees Section,,1930,7,15,1931,6,30,Russian,,,,,,,
 5530,Dr. Fritz Foth,0,Temporary Collaborator,First Division,Information Section,,1932,9,19,1932,10,10,German,,,,,,,
 5531,J. Salvador Fernandez,0,Temporary Collaborator,First Division,Information Section,,1930,9,9,1930,9,30,,,,,,,,
 5532,Raymond B. Fosdick,0,Under Secretary General,First Division,Under-Secretary-General's Office,,1919,7,17,1920,,,"US-American	",,,,,,,
@@ -923,9 +917,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5539,Georges Fleury,0,Member of Section,First Division,Information Section,,1920,7,15,1920,7,15,,,,,,,,
 5540,Federico Flora,0,Temporary Collaborator,First Division,Information Section,,1930,9,8,1930,9,29,Italian,,,,,,,
 5542,Dr. George Jean Claude Forestier,0,Expert/Specialist,First Division,Health Section,,1927,6,1,1933,12,31,French,,,,,,,
-5543,Henri Ernest Reymond,0,Member of Section,First Division,"Russian Refugees Section
-
-",,1930,1,1,1931,3,31,Swiss,,,,,,,
+5543,Henri Ernest Reymond,0,Member of Section,First Division,Russian Refugees Section,,1930,1,1,1931,3,31,Swiss,,,,,,,
 5544,Mario Ribas,0,Correspondent,Second Division,Information Section,,1931,3,1,1933,12,31,Hondurian,,,,,,,
 5547,A. Rienks,0,Temporary Collaborator,First Division,Information Section,,1929,9,2,1929,9,23,Dutch,,,,,,,
 5549,Olaf Ripa,0,Temporary Collaborator,First Division,Information Section,,1936,9,17,1936,10,7,Swedish,,,,,,,
@@ -1528,9 +1520,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 8878,Claude William Guilleraud,0,Précis Writer,First Division,Précis-Writing Department,1890,1925,7,20,1925,7,31,British,,35,,,,,
 8879,Jorge Guillen,0,Translator,First Division,Translation,,1920,11,22,,,,,,,,,,,
 8880,Marguerite Louise Guillen,1,Shorthand Typist,Second Division,Pool,1899,1920,9,27,1921,10,30,Belgian,,21,,,,,
-8880,Marguerite Louise Guillen,1,Shorthand Typist,Second Division,"Russian Refugees Section
-
-",1899,1921,10,31,1924,12,31,Belgian,,22,,,,,
+8880,Marguerite Louise Guillen,1,Shorthand Typist,Second Division,Russian Refugees Section,1899,1921,10,31,1924,12,31,Belgian,,22,,,,,
 8880,Marguerite Louise Guillen,1,Shorthand Typist,Second Division,Pool,1899,1925,1,1,1928,9,30,Belgian,,26,,,,,
 8880,Marguerite Louise Guillen,1,Shorthand Typist,Second Division,Legal Section,1899,1928,10,1,1939,6,30,Belgian,,29,,,,,
 8880,Marguerite Louise Guillen,1,Shorthand Typist,Second Division,Pool,1899,1945,10,15,1946,9,30,Belgian,,46,,,,,
@@ -1797,9 +1787,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9053,Christine Bertha Margarethe Mayrhofer,1,Junior Assistant,Second Division,Economic and Financial Section,1885,1924,12,1,1927,12,31,Austrian,,39,,,,,
 9053,Christine Bertha Margarethe Mayrhofer,1,Senior Assistant,Second Division,Mandates Section,1885,1934,7,1,1939,4,30,Austrian,,49,,,,,
 9054,Marguerite Berthe Catherine Mayrhofer,1,Clerk,Second Division,Publications Service,1883,1927,7,1,1927,8,31,Austrian,,44,,,,,
-9055,Hélène Maystre,1,Shorthand Typist,Second Division,"Russian Refugees Section
-
-",1903,1930,1,1,1931,3,31,Swiss,,27,,,,,
+9055,Hélène Maystre,1,Shorthand Typist,Second Division,Russian Refugees Section,1903,1930,1,1,1931,3,31,Swiss,,27,,,,,
 9055,Hélène Maystre,1,Copyist,Second Division,Pool,1903,1931,9,7,1931,9,28,Swiss,,28,,,,,
 9056,Eva Augusta Maria Ghislaine Mazy,1,Shorthand Typist,Second Division,Pool,1890,1921,5,24,1924,8,31,Belgian,,31,,,,,
 9056,Eva Augusta Maria Ghislaine Mazy,1,Verbatim Reporter,Second Division,Précis-Writing Department,1890,1924,9,1,1930,12,31,Belgian,,34,,,,,
@@ -2414,9 +2402,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9480,Manuel Robert Paul Emile Nicole,0,Clerk,Second Division,Economic and Financial Section,1908,1935,2,1,1940,11,30,Swiss,,27,,,,,
 9480,Manuel Robert Paul Emile Nicole,0,Clerk,Second Division,Department III,1908,1944,9,4,1946,8,31,Swiss,,36,,,,,
 9481,Laure Nicolet,1,Messenger,Second Division,Distribution of Documents,,1926,9,4,1926,12,31,,,,,,,,
-9482,Boris Nicolsky,0,Assistant Accountant,Second Division,"Russian Refugees Section
-
-",1885,1930,1,1,1931,3,31,"Yugoslav	",,45,,,,,
+9482,Boris Nicolsky,0,Assistant Accountant,Second Division,Russian Refugees Section,1885,1930,1,1,1931,3,31,"Yugoslav	",,45,,,,,
 9483,Nathalie Nicolsky,1,Copyist,Second Division,Pool,1910,1931,1,14,1931,3,19,"Yugoslav	",,21,,,,,
 9483,Nathalie Nicolsky,1,Copyist,Second Division,Pool,1910,1931,5,6,1931,8,23,"Yugoslav	",,21,,,,,
 9483,Nathalie Nicolsky,1,Copyist,Second Division,Pool,1910,1931,9,3,1931,9,29,"Yugoslav	",,21,,,,,
@@ -2640,9 +2626,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9598,Marie Fernande Pasquier née Guebey,1,Shorthand Typist,Second Division,Economic and Financial Section,1891,1920,11,30,1939,7,14,French,,29,,,,,
 9598,Marie Fernande Pasquier née Guebey,1,Shorthand Typist,Second Division,Pool,1891,1920,11,10,1920,11,29,French,,29,,,,,
 9598,Marie Fernande Pasquier née Guebey,1,Shorthand Typist,Second Division,Department III,1891,1939,7,15,1946,7,31,French,,48,,,,,
-9599,Catherine Pastuhov née Ouvaroff,1,Translator,First Division,"Russian Refugees Section
-
-",1896,1921,7,8,1922,6,30,Czech,,25,,,,,
+9599,Catherine Pastuhov née Ouvaroff,1,Translator,First Division,Russian Refugees Section,1896,1921,7,8,1922,6,30,Czech,,25,,,,,
 9599,Catherine Pastuhov née Ouvaroff,1,Assistant,Second Division,Political Section,1896,1922,7,1,1926,12,31,Czech,,26,,,,,
 9599,Catherine Pastuhov née Ouvaroff,1,Clerk,Second Division,Registry,1896,1927,4,7,1940,5,31,Czech,,31,,,,,
 9599,Catherine Pastuhov née Ouvaroff,1,Clerk,Second Division,Political Section,1896,1927,1,1,1927,4,6,Czech,,31,,,,,
@@ -2918,9 +2902,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9754,St Clair Knight,1,Copyist,Second Division,Pool,1899,1924,7,2,1924,8,16,British,,25,,,,,
 9755,Jean Knill,0,Cleaner,Third Division,Auxiliary Staff,,1920,11,1,1921,5,1,Belgian,,,,,,,
 9755,Jean Knill,0,Liftboy,Third Division,Auxiliary Staff,,1921,5,1,1922,,,Belgian,,,,,,,
-9756,Elsie May Knocker,1,Secretary Shorthand-Typist,Second Division,"Russian Refugees Section
-
-",1896,1930,1,1,1931,3,31,British,,34,,,,,
+9756,Elsie May Knocker,1,Secretary Shorthand-Typist,Second Division,Russian Refugees Section,1896,1930,1,1,1931,3,31,British,,34,,,,,
 9757,David Kobel,0,Messenger,Second Division,Distribution of Documents,1902,1935,9,7,1935,9,30,Swiss,,33,,,,,
 9757,David Kobel,0,Packer,Third Division,Library,1902,1935,10,1,1936,2,10,Swiss,,33,,,,,
 9758,Marie Koch,1,Cleaner,Third Division,Auxiliary Staff,1889,1920,11,1,1933,3,31,Swiss,,31,,,,,
@@ -3256,9 +3238,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9942,Felicita Donzelli,1,Translator,First Division,Economic Conference,1879,1927,4,4,1927,10,4,Italian,,48,,,,,
 9942,Felicita Donzelli,1,Copyist,Second Division,Pool,1879,1930,5,1,1930,5,26,Italian,,51,,,,,
 9942,Felicita Donzelli,1,Copyist,Second Division,Pool,1879,1930,7,1,1930,12,14,Italian,,51,,,,,
-9942,Felicita Donzelli,1,Stenographer,Second Division,"Russian Refugees Section
-
-",1879,1930,1,1,1930,4,30,Italian,,51,,,,,
+9942,Felicita Donzelli,1,Stenographer,Second Division,Russian Refugees Section,1879,1930,1,1,1930,4,30,Italian,,51,,,,,
 9943,Emilie Marie Dorier née Petter,1,Cleaner,Third Division,Auxiliary Staff,1909,1936,2,10,1943,3,17,Swiss,,27,,,,,
 9944,Yvonne Dottrens,1,Stenographer,Second Division,Pool,1898,1925,9,2,1926,5,11,Swiss,,27,,,,,
 9944,Yvonne Dottrens,1,Lector,Second Division,Publications Service,1898,1925,8,21,1925,9,1,Swiss,,27,,,,,
@@ -3633,9 +3613,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10172,Henri Schmitt,0,Messenger,Second Division,Auxiliary Staff,1926,1946,4,5,1946,4,18,Swiss,,20,,,,,
 10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Pool,1888,1922,2,28,1922,3,20,French,,34,,,,,
 10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Pool,1888,1922,7,14,1923,3,18,French,,34,,,,,
-10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,"Russian Refugees Section
-
-",1888,1922,3,21,1922,7,13,French,,34,,,,,
+10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Russian Refugees Section,1888,1922,3,21,1922,7,13,French,,34,,,,,
 10173,Marie Henriette Schmitt,1,Clerk,Second Division,Library,1888,1923,3,19,1923,7,31,French,,35,,,,,
 10173,Marie Henriette Schmitt,1,Clerk,Second Division,Library,1888,1923,10,1,1923,12,31,French,,35,,,,,
 10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Pool,1888,1923,8,1,1923,9,30,French,,35,,,,,
@@ -3891,9 +3869,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10328,Edouard Stadlin,0,Proof-Reader,Second Division,Printing & Publishing Department,1888,1938,9,12,1938,9,30,Swiss,,50,,,,,
 10329,Katherine Irene Stafford,1,Assistant Secretary,Second Division,Secretary-General's Office,1887,1919,9,2,1920,6,30,British,,32,,,,,
 10329,Katherine Irene Stafford,1,Secretary of Section,Second Division,Intellectual Cooperation and International Bureaux Section,1887,1920,7,1,1939,5,15,British,,33,,,,,
-10330,Albert Lewin Stagg,0,Shorthand Typist,Second Division,"Russian Refugees Section
-
-",1908,1930,5,1,1930,7,5,British,,22,,,,,
+10330,Albert Lewin Stagg,0,Shorthand Typist,Second Division,Russian Refugees Section,1908,1930,5,1,1930,7,5,British,,22,,,,,
 10332,May Staite,1,Shorthand Typist,Second Division,Pool,1889,1927,12,1,1928,7,11,British,,38,,,,,
 10332,May Staite,1,Shorthand Typist,Second Division,Pool,1889,1929,4,8,1930,12,31,British,,40,,,,,
 10332,May Staite,1,Shorthand Typist,Second Division,Pool,1889,1931,2,2,1931,9,28,British,,42,,,,,
@@ -4286,9 +4262,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10563,Antoine Vellemann,0,Interpreter,First Division,Translation,1875,1932,5,4,1932,5,7,Swiss,,57,,,,,
 10563,Antoine Vellemann,0,Interpreter,First Division,Translation,1875,1937,4,13,1937,5,1,Swiss,,62,,,,,
 10564,Ethel May Venables,1,Shorthand Typist,Second Division,Pool,1885,1920,10,14,1922,5,3,British,,35,,,,,
-10564,Ethel May Venables,1,Shorthand Typist,Second Division,"Russian Refugees Section
-
-",1885,1922,5,4,1923,10,14,British,,37,,,,,
+10564,Ethel May Venables,1,Shorthand Typist,Second Division,Russian Refugees Section,1885,1922,5,4,1923,10,14,British,,37,,,,,
 10564,Ethel May Venables,1,Secretary Shorthand-Typist,Second Division,Financial Section & Economic Intelligence Service,1885,1931,11,16,1933,12,31,British,,46,,,,,
 10564,Ethel May Venables,1,Secretary Shorthand-Typist,Second Division,Pool,1885,1934,1,1,1940,1,31,British,,49,,,,,
 10565,Norah Winifred Venables,1,Shorthand Typist,Second Division,Pool,1889,1920,6,22,1930,12,31,British,,31,,,,,
@@ -4883,9 +4857,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10917,Ivan Clement Arnould,0,Unspecified,Unspecified,Translation,1891,1919,9,1,1925,1,10,British,,28,,,,,Just says he served in the office
 10917,Ivan Clement Arnould,0,Unspecified,Unspecified,Establishment Office,1891,1919,9,1,1925,1,10,British,,28,,,,,Just says he served in the office
 10917,Ivan Clement Arnould,0,Unspecified,Unspecified,Internal Control,1891,1919,9,1,1925,1,10,British,,28,,,,,Just says he served in the office
-10917,Ivan Clement Arnould,0,Unspecified,Unspecified,"Russian Refugees Section
-
-",1891,1919,9,1,1925,1,10,British,,28,,,,,Just says he served in the office
+10917,Ivan Clement Arnould,0,Unspecified,Unspecified,Russian Refugees Section,1891,1919,9,1,1925,1,10,British,,28,,,,,Just says he served in the office
 10918,Laurits Thomas Arnskov,0,Attaché,First Division,Information Section,1878,1925,10,1,1925,12,31,Dane,,47,,,,,
 10919,Manual Juan Arocha,0,Liaison Officer,First Division,Information Section,1892,1922,11,1,1924,10,,"Venezuelan	",,30,,,,,
 10919,Manual Juan Arocha,0,Member of Section,First Division,Disarmament Section,1892,1924,10,,1925,,,"Venezuelan	",,32,,,,,
@@ -5189,9 +5161,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11094,Auguste Regamey,0,Cleaner,Third Division,Auxiliary Staff,1897,1927,10,1,1927,11,30,Swiss,,30,,,,,
 11094,Auguste Regamey,0,Cleaner,Third Division,Auxiliary Staff,1897,1927,12,13,1928,2,20,Swiss,,30,,,,,
 11094,Auguste Regamey,0,Messenger,Second Division,Auxiliary Staff,1897,1928,2,20,1946,7,31,Swiss,,31,,,,,
-10889,Mr Percy William Holder,0,Proof-Reader,Second Division,"Russian Refugees Section
-
-",1892,1931,5,19,1931,7,10,British,,,,,,,
+10889,Mr Percy William Holder,0,Proof-Reader,Second Division,Russian Refugees Section,1892,1931,5,19,1931,7,10,British,,,,,,,
 11095,Madeleine Baudier-Girard,1,Clerk,Second Division,Library,1908,1930,4,14,1930,5,31,French,,22,,,,,
 11096,Renéx de Latour,0,Cyclist,Third Division,Paris Office,1906,1925,,,,,,French,,19,,,,,
 11097,"Marjorie Lattmann, née Fearnside",1,Shorthand Typist,Second Division,Pool,1906,1930,9,15,1930,9,30,Swiss,,24,,,,,
@@ -5378,9 +5348,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11201,Aimé Bellino,0,Night-watchman,Third Division,Auxiliary Staff,1880,1927,5,12,1927,7,31,Swiss,,47,,,,,
 11202,Odette Belujon,1,Unspecified,Unspecified,Précis-Writing Department,1904,1928,6,27,1928,7,20,French,,24,,,,,
 11203,Olga Belloche,1,Shorthand Typist,Second Division,Political Section,1896,1920,5,17,1940,1,31,French,,24,,,,,
-11204,Philippe Bemberg,0,Temporary Collaborator,First Division,"Russian Refugees Section
-
-",1920,1946,4,6,1946,4,18,French,,26,,,,,
+11204,Philippe Bemberg,0,Temporary Collaborator,First Division,Russian Refugees Section,1920,1946,4,6,1946,4,18,French,,26,,,,,
 11205,Vito de Benedetto,0,Senior Assistant,Second Division,Economic and Financial Section,1899,1927,10,31,1927,11,30,Italian,,28,,,,,
 11206,Alan Bennett,0,Proof-Reader,Second Division,Publications Service,1895,1921,12,28,1928,4,11,British,,26,,,,,
 11207,Benoit Gaston,0,Messenger,Second Division,Auxiliary Staff,1924,1946,4,5,1946,4,18,Swiss,,22,,,,,
@@ -5508,9 +5476,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11276,Sidney Lock,0,Typist,Second Division,Pool,,1923,9,5,1923,9,29,British,,,,,,,
 11277,Margery Lockett,1,Assistant Secretary,Second Division,Publications Service,,1920,11,10,1921,10,30,British,,,,,,,
 11277,Margery Lockett,1,Assistant Secretary,Second Division,Publications Service,,1922,9,1,1922,10,22,British,,,,,,,
-11277,Margery Lockett,1,Assistant Secretary,Second Division,"Russian Refugees Section
-
-",,1922,10,23,1923,12,15,British,,,,,,,
+11277,Margery Lockett,1,Assistant Secretary,Second Division,Russian Refugees Section,,1922,10,23,1923,12,15,British,,,,,,,
 11278,T. Lodge,0,Member of Section,First Division,Unspecified,,1920,9,,1922,3,,British,,,,,,,
 11279,Helen Loeffler,1,Statistician,First Division,Health Section,1896,1924,6,24,1924,12,31,"US-American	",,28,,,,,
 11280,Madeleine de Loes,1,Shorthand Typist,Second Division,Pool,1909,1935,6,17,1935,6,30,Swiss,,26,,,,,

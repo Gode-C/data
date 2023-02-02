@@ -38,7 +38,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4806,Setsuichi Aoki,0,Member of Section,First Division,Information Section,1894,1932,12,11,1933,3,15,Japanese,,38,,,,,,Asia,Leadership and Functional Sections,Information Section
 4806,Setsuichi Aoki,0,Member of Section,First Division,Economic and Financial Section,1894,1933,3,16,1933,12,31,Japanese,,39,,,,,,Asia,Leadership and Functional Sections,Economic & Financial Section
 4856,Robert André Felix Bach,0,Expert/Specialist,First Division,Disarmament Section,1889,1937,9,1,1940,6,10,French,,48,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
-4860,Dr. Jur. Thanassis (Athanase) Aghnides,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1889,1919,9,25,1921,6,1,Greek,,30,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+4860,Dr. Jur. Thanassis (Athanase) Aghnides,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1889,1919,9,25,1921,6,1,Greek,,30,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 4860,Dr. Jur. Thanassis (Athanase) Aghnides,0,Member of Section,First Division,Disarmament Section,1889,1921,6,1,1922,8,1,Greek,,32,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
 4860,Dr. Jur. Thanassis (Athanase) Aghnides,0,Member of Section,First Division,Political Section,1889,1922,8,1,1930,7,10,Greek,,33,,,,,,Europe,Leadership and Functional Sections,Political Section
 4860,Dr. Jur. Thanassis (Athanase) Aghnides,0,Director,First Division,Disarmament Section,1889,1930,7,10,1939,6,1,Greek,,41,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
@@ -74,7 +74,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4878,Dattatraya Narayan Naravane,0,Temporary Collaborator,First Division,Information Section,,1938,5,23,1938,8,23,Indian,,,,,,,,Asia,Leadership and Functional Sections,Information Section
 4878,Dattatraya Narayan Naravane,0,Temporary Collaborator,First Division,Library,,1938,6,1,1938,6,30,Indian,,,,,,,,Asia,Internal Administration and Operations,Library
 4878,Dattatraya Narayan Naravane,0,Temporary Collaborator,First Division,Intellectual Cooperation and International Bureaux Section,,1938,7,1,1938,7,31,Indian,,,,,,,,Asia,Leadership and Functional Sections,Intel. Cooperation & Int. Bureaux Section
-4879,Sarah Wambaugh,1,Member of Section,First Division,Administrative Commissions and Minorities Section,,1920,7,20,1920,12,20,US-American,,,,,,,,Americas,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+4879,Sarah Wambaugh,1,Member of Section,First Division,Administrative Commissions and Minorities Section,,1920,7,20,1920,12,20,US-American,,,,,,,,Americas,Leadership and Functional Sections,Minorities Section
 4880,Frank Paul Walters,0,Personal Assistant,First Division,Secretary-General's Office,1888,1919,5,15,1920,1,10,British,,31,,,,,,Europe,Leadership and Functional Sections,Secretary-General's Office
 4880,Frank Paul Walters,0,Member of Section,First Division,Political Section,1888,1920,1,10,1931,1,1,British,,32,,,,,,Europe,Leadership and Functional Sections,Political Section
 4880,Frank Paul Walters,0,Head of Section,First Division,Secretary-General's Office,1888,1920,1,10,1930,12,31,British,,32,,,,,,Europe,Leadership and Functional Sections,Secretary-General's Office
@@ -110,7 +110,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4901,Saofong Wu,0,Member of Section,First Division,Information Section,1898,1928,8,15,1934,10,15,Indian,,30,,,,,,Asia,Leadership and Functional Sections,Information Section
 4901,Saofong Wu,0,Member of Section,First Division,Political Section,1898,1934,10,15,1940,5,17,Indian,,36,,,,,,Asia,Leadership and Functional Sections,Political Section
 4902,Dr. Czeslaw Wroczynski,0,Expert/Specialist,First Division,Health Section,,1935,10,5,1936,9,4,Polish,,,,,,,,Europe,Leadership and Functional Sections,Health Section
-4903,Aarne Wuorimaa,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1923,11,20,1925,11,13,Finish,,31,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+4903,Aarne Wuorimaa,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1923,11,20,1925,11,13,Finish,,31,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 4904,C.H. Wykes,0,Member of Section,First Division,Information Section,,1919,8,19,1920,1,9,British,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 4905,Antonii Nicoloff,0,Temporary Collaborator,First Division,Information Section,,1935,9,5,1935,9,26,Bulgarian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 4906,Harold Nicolson,0,Member of Section,First Division,Political Section,,1919,10,21,,,,British,,,,,,,,Europe,Leadership and Functional Sections,Political Section
@@ -135,7 +135,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4924,Christian Olsen,0,Member of Section,First Division,Economic and Financial Section,,1923,2,1,1924,7,31,Dane,,,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 4925,Georges Oprescu,0,Member of Section,First Division,Intellectual Cooperation and International Bureaux Section,,1923,12,22,1930,12,31,Romanian,,,,,,,,Europe,Leadership and Functional Sections,Intel. Cooperation & Int. Bureaux Section
 4926,William O'Sullivan-Molony,0,Member of Section,First Division,Political Section,,1921,,,1922,,,Irish,,,,,,,,Europe,Leadership and Functional Sections,Political Section
-4926,William O'Sullivan-Molony,0,Member of Section,First Division,Administrative Commissions and Minorities Section,,1925,6,20,1931,5,15,Irish,,,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+4926,William O'Sullivan-Molony,0,Member of Section,First Division,Administrative Commissions and Minorities Section,,1925,6,20,1931,5,15,Irish,,,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 4927,Karl Ott,0,Member of Section,First Division,Economic and Financial Section,,1926,6,22,1927,5,31,German,,,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 4928,George de Ottlik,0,Temporary Collaborator,First Division,Information Section,,1926,,,1926,,,Hungarian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 4929,Dr. Tsune Ouchi,0,Deputy Director,First Division,Eastern Bureau of the Health Section in Singapore,,1930,1,2,1939,1,15,Japanese,,,,,,,,Asia,External Offices & Relations,Eastern Bureau (Singapore) (Health)
@@ -235,7 +235,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5001,Gaston Barreto,0,Temporary Collaborator,First Division,Information Section,1900,1938,1,31,1939,2,28,Peruvian,,38,,,,,,Americas,Leadership and Functional Sections,Information Section
 5002,Willem Herman Johan van Asch van Wijck,0,Assistant Head of Section,First Division,Distribution of Documents,1895,1925,11,6,1928,5,1,Dutch,,30,,,,,,Europe,Internal Administration and Operations,Distribution of Documents
 5002,Willem Herman Johan van Asch van Wijck,0,Head of Section,First Division,Distribution of Documents,1895,1928,5,1,1930,1,1,Dutch,,33,,,,,,Europe,Internal Administration and Operations,Distribution of Documents
-5002,Willem Herman Johan van Asch van Wijck,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1895,1930,1,1,1933,8,16,Dutch,,35,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5002,Willem Herman Johan van Asch van Wijck,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1895,1930,1,1,1933,8,16,Dutch,,35,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5002,Willem Herman Johan van Asch van Wijck,0,Member of Section,First Division,Under Secretary-Generals' in charge of Internal Administration Office,1895,1933,8,16,1937,2,18,Dutch,,38,,,,,,Europe,Leadership and Functional Sections,USG Internal Administration Office
 5002,Willem Herman Johan van Asch van Wijck,0,Member of Section,First Division,Under Secretary-Generals' in charge of Internal Administration Office,1895,1937,2,18,1939,6,12,Dutch,,42,,,,,,Europe,Leadership and Functional Sections,USG Internal Administration Office
 5002,Willem Herman Johan van Asch van Wijck,0,Member of Section,First Division,Department I (Department of General Affairs),1895,1939,6,12,1947,8,16,Dutch,,44,,,,,,Europe,Departments,Dept. I (Dept. of General Affairs)
@@ -270,9 +270,9 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5022,Juan Teixidor y Sanchez,0,Member of Section,First Division,Political Section,,1931,4,22,1933,12,10,Spanish,,,,,,,,Europe,Leadership and Functional Sections,Political Section
 5023,Paul Belak,0,Fellow,First Division,Information Section,,1931,9,7,1931,9,12,Austrian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5024,Hans Christian Berg,0,Member of Section,First Division,Social Questions and Opium Traffic Section,1893,1924,1,3,1934,10,31,Norwegian,,31,,,,,,Europe,Leadership and Functional Sections,Social Questions & Opium Traffic Section
-5024,Hans Christian Berg,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1893,1924,1,3,1934,10,31,Norwegian,,31,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5024,Hans Christian Berg,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1893,1924,1,3,1934,10,31,Norwegian,,31,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5025,Jussi Teljo,0,Temporary Collaborator,First Division,Information Section,,1938,9,9,1938,9,27,Finish,,,,,,,,Europe,Leadership and Functional Sections,Information Section
-5026,José Lebre Barbosa Magalhaes,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1923,2,23,1925,3,31,Portugese,,31,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5026,José Lebre Barbosa Magalhaes,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1923,2,23,1925,3,31,Portugese,,31,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5027,Jost Terhaar,0,Head of Office,First Division,Information Section,1901,1928,6,20,1933,12,31,German,,27,,,,,,Europe,Leadership and Functional Sections,Information Section
 5028,Madeleine Avetenaite,1,Temporary Collaborator,First Division,Information Section,,1935,9,5,1935,9,26,Lithuanian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5029,Bergadini,0,Temporary Collaborator,First Division,Information Section,,1929,8,26,1929,9,14,Italian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
@@ -289,8 +289,8 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5039,Oscar Bertholin,0,Temporary Collaborator,First Division,League of Nations,1893,1946,3,19,1946,4,19,Guatemalan,,53,,,,,,Americas,Internal Administration and Operations,League of Nations
 5040,James W. Thornton,0,Temporary Collaborator,First Division,Information Section,,1928,11,8,1928,12,31,,,,,,,,,,Leadership and Functional Sections,Information Section
 5040,James W. Thornton,0,Temporary Collaborator,First Division,Information Section,,1929,1,14,1929,2,9,,,,,,,,,,Leadership and Functional Sections,Information Section
-5041,Pablo de Azcárate,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1890,1922,10,1,1930,2,1,Spanish,,32,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
-5041,Pablo de Azcárate,0,Director,First Division,Administrative Commissions and Minorities Section,1890,1930,2,1,1933,7,1,Spanish,,40,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5041,Pablo de Azcárate,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1890,1922,10,1,1930,2,1,Spanish,,32,,,,,,Europe,Leadership and Functional Sections,Minorities Section
+5041,Pablo de Azcárate,0,Director,First Division,Administrative Commissions and Minorities Section,1890,1930,2,1,1933,7,1,Spanish,,40,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5041,Pablo de Azcárate,0,Deputy Secretary General,First Division,Deputy Secretary-General's Office,1890,1933,7,1,1936,9,7,Spanish,,43,,,,,,Europe,Leadership and Functional Sections,Deputy Secretary-General's Office
 5042,Oscar Uno Konrad Thorsing,0,Member of Section,First Division,Information Section,1896,1924,10,1,1924,12,31,Swedish,,28,,,,,,Europe,Leadership and Functional Sections,Information Section
 5043,Jan Tinbergen,0,Expert/Specialist,First Division,Financial Section & Economic Intelligence Service,1903,1936,9,1,1938,8,31,Dutch,,33,,,,,,Europe,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
@@ -307,7 +307,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5056,André D. Toledano,0,Member of Section,First Division,Précis-Writing Department,1888,1921,2,,1924,12,31,French,,33,,,,,,Europe,Internal Administration and Operations,Précis-Writing Dept.
 5057,Edouard Bigwood,0,Expert/Specialist,First Division,Health Section,1891,1937,3,,1937,12,31,Belgian,,46,,,,,,Europe,Leadership and Functional Sections,Health Section
 5058,Dr. Yves Biraud,0,Member of Section,First Division,Health Section,1900,1926,12,14,1946,8,31,French,,26,,,,,,Europe,Leadership and Functional Sections,Health Section
-5059,Manuel Aguirre de Cárcer,0,Director,First Division,Administrative Commissions and Minorities Section,1882,1928,10,8,1930,1,31,Spanish,,46,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5059,Manuel Aguirre de Cárcer,0,Director,First Division,Administrative Commissions and Minorities Section,1882,1928,10,8,1930,1,31,Spanish,,46,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5060,Pierre Mamopoulos,0,Temporary Collaborator,First Division,Information Section,1892,1935,9,5,1935,9,26,Greek,,43,,,,,,Europe,Leadership and Functional Sections,Information Section
 5061,Ross Tolmie,0,Temporary Collaborator,First Division,Information Section,,1930,9,8,1930,9,29,,,,,,,,,,Leadership and Functional Sections,Information Section
 5062,Dr. Ewald Tomanek,0,Member of Section,First Division,Health Section,1884,1924,5,1,1934,12,31,Czech,,40,,,,,,Europe,Leadership and Functional Sections,Health Section
@@ -381,7 +381,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5117,M.L. Pin Malakul,0,Temporary Collaborator,First Division,Information Section,,1931,8,31,1931,9,20,Siamese,,,,,,,,Asia,Leadership and Functional Sections,Information Section
 10704,Catherine Zani,1,Secretary Shorthand-Typist,Second Division,Under Secretary-Generals' in charge of Internal Administration Office,1898,1926,1,1,,,,Italian,,,,,,,,Europe,Leadership and Functional Sections,USG Internal Administration Office
 5119,Karol Pindór,0,Expert/Specialist,First Division,Social Questions and Opium Traffic Section,,1938,6,29,1940,6,28,Polish,,,,,,,,Europe,Leadership and Functional Sections,Social Questions & Opium Traffic Section
-5120,Peter Christian Schou,0,Director,First Division,Administrative Commissions and Minorities Section,1883,1936,7,2,1937,6,30,Dane,,53,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5120,Peter Christian Schou,0,Director,First Division,Administrative Commissions and Minorities Section,1883,1936,7,2,1937,6,30,Dane,,53,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5121,Mitchell Benedict Carroll,0,Expert/Specialist,First Division,Economic and Financial Section,1898,1930,8,29,1933,8,31,US-American,,32,,,,,,Americas,Leadership and Functional Sections,Economic & Financial Section
 5122,Fernando Maria Castiella,0,Temporary Collaborator,First Division,Information Section,,1930,9,8,1930,9,29,,,,,,,,,,Leadership and Functional Sections,Information Section
 5123,Dr. Abel Romeo Castillo,0,Temporary Collaborator,First Division,Information Section,,1931,8,31,1931,9,21,Spanish,,,,,,,,Europe,Leadership and Functional Sections,Information Section
@@ -403,7 +403,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5134,Joseph Seifert,0,Temporary Collaborator,First Division,Information Section,,1922,9,1,1922,9,30,,,,,,,,,,Leadership and Functional Sections,Information Section
 5135,Gustavo Pittaluga,0,Expert/Specialist,First Division,Health Section,1876,1937,1,4,1937,9,30,Spanish,,61,,,,,,Europe,Leadership and Functional Sections,Health Section
 5136,Boleslaw Celinski,0,Member of Section,First Division,Social Questions and Opium Traffic Section,1904,1936,2,4,1946,8,31,Polish,,32,,,,,,Europe,Leadership and Functional Sections,Social Questions & Opium Traffic Section
-5137,Angel Maria Cespedes,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1925,3,9,1940,8,31,Colombian,,33,,,,,,Americas,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5137,Angel Maria Cespedes,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1925,3,9,1940,8,31,Colombian,,33,,,,,,Americas,Leadership and Functional Sections,Minorities Section
 5138,Min-King Chan,0,Temporary Collaborator,First Division,Information Section,,1937,9,9,1937,9,30,Chinese,,,,,,,,Asia,Leadership and Functional Sections,Information Section
 5139,Prof. A. K. Chanda,0,Temporary Collaborator,First Division,Information Section,,1936,9,17,1936,10,15,Japanese,,,,,,,,Asia,Leadership and Functional Sections,Information Section
 5140,John Henry Chapman,0,Member of Section,First Division,Financial Section & Economic Intelligence Service,1886,1921,9,6,1946,7,31,New Zealander,,35,,,,,,Oceania,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
@@ -579,7 +579,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5276,Ivan Kerno,0,Member of Section,First Division,Political Section,1891,1928,4,2,1931,1,1,Czech,,37,,,,,,Europe,Leadership and Functional Sections,Political Section
 5276,Ivan Kerno,0,Member of Section,First Division,Deputy Secretary-General's Office,1891,1931,1,1,1934,4,1,Czech,,40,,,,,,Europe,Leadership and Functional Sections,Deputy Secretary-General's Office
 5277,Raymond Newton Kershaw,0,Member of Section,First Division,Health Section,1898,1924,1,1,1924,9,1,Australian,,26,,,,,,Oceania,Leadership and Functional Sections,Health Section
-5277,Raymond Newton Kershaw,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1898,1924,9,1,1929,10,31,Australian,,26,,,,,,Oceania,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5277,Raymond Newton Kershaw,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1898,1924,9,1,1929,10,31,Australian,,26,,,,,,Oceania,Leadership and Functional Sections,Minorities Section
 5278,Awni Khalidy,0,Temporary Collaborator,First Division,Information Section,1911,1937,10,8,1937,11,18,Iraqi,,26,,,,,,Asia,Leadership and Functional Sections,Information Section
 5279,Dr. Arthur Kiessling,0,Temporary Collaborator,First Division,Information Section,,1928,9,6,1928,9,20,German,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5280,Ella Kirsipuu,1,Temporary Collaborator,First Division,Information Section,,1938,9,9,1938,9,30,Estonian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
@@ -592,12 +592,12 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5287,Hans-Ulrich von Kotze,0,Member of Section,First Division,Under-Secretary-General's Office,1891,1930,9,17,1933,2,28,German,,39,,,,,,Europe,Leadership and Functional Sections,USG Office
 5288,Ludwig Thorwald de Krabbe,0,Member of Section,First Division,Information Section,1884,1921,4,1,1931,4,16,Dane,,37,,,,,,Europe,Leadership and Functional Sections,Information Section
 5288,Ludwig Thorwald de Krabbe,0,unspecified,Unspecified,League of Nations,1884,1924,8,1,1925,12,31,Dane,,40,,,,,"Not sure if actual position it says ""Collaborated with General Commissioner of League of Nations in Vienna""",Europe,Internal Administration and Operations,League of Nations
-5288,Ludwig Thorwald de Krabbe,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1884,1931,4,16,1933,10,27,Dane,,47,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5288,Ludwig Thorwald de Krabbe,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1884,1931,4,16,1933,10,27,Dane,,47,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5288,Ludwig Thorwald de Krabbe,0,Member of Section,First Division,Political Section,1884,1935,10,27,1939,4,30,Dane,,51,,,,,,Europe,Leadership and Functional Sections,Political Section
 5289,Pipat Krairiksh,0,Temporary Collaborator,First Division,Information Section,,1938,9,10,1938,10,1,Siamese,,,,,,,,Asia,Leadership and Functional Sections,Information Section
 5290,Dr. Gerhard Krassa,0,Temporary Collaborator,First Division,Information Section,,1931,8,31,1931,9,21,Austrian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5291,Dr. Wolfgang Krauel,0,Member of Section,First Division,Under-Secretary-General's Office,1888,1932,2,1,1932,6,25,German,,44,,,,,,Europe,Leadership and Functional Sections,USG Office
-5292,Jean Pierre Kremer,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1903,1931,9,1,1937,6,7,Luxembourgish,,28,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5292,Jean Pierre Kremer,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1903,1931,9,1,1937,6,7,Luxembourgish,,28,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5292,Jean Pierre Kremer,0,Member of Section,First Division,Central Section,1903,1937,6,7,1939,6,12,Luxembourgish,,34,,,,,,Europe,Leadership and Functional Sections,Central Section
 5292,Jean Pierre Kremer,0,Member of Section,First Division,Department I (Department of General Affairs),1903,1939,6,12,1939,7,10,Luxembourgish,,36,,,,,,Europe,Departments,Dept. I (Dept. of General Affairs)
 5292,Jean Pierre Kremer,0,Member of Section,First Division,Economic and Financial Section,1903,1939,7,10,1940,5,17,Luxembourgish,,36,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
@@ -669,7 +669,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5343,Hessel Duncan Hall,0,Member of Section,First Division,Information Section,1891,1935,9,9,1939,3,31,Australian,,44,,,,,,Oceania,Leadership and Functional Sections,Information Section
 5344,Marson Una,1,Temporary Collaborator,First Division,Information Section,,1935,9,5,1935,9,26,British,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5345,J. H. Hall,0,Temporary Collaborator,First Division,Information Section,,1938,11,7,1939,5,6,New Zealander,,,,,,,,Oceania,Leadership and Functional Sections,Information Section
-5346,Edouard Rodolphe de Haller,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1897,1926,4,6,1928,7,1,Swiss,,29,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5346,Edouard Rodolphe de Haller,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1897,1926,4,6,1928,7,1,Swiss,,29,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5346,Edouard Rodolphe de Haller,0,Member of Section,First Division,Mandates Section,1897,1928,7,1,1935,12,1,Swiss,,31,,,,,,Europe,Leadership and Functional Sections,Mandates Section
 5346,Edouard Rodolphe de Haller,0,Acting Director,First Division,Mandates Section,1897,1935,12,1,1937,12,31,Swiss,,38,,,,,,Europe,Leadership and Functional Sections,Mandates Section
 5346,Edouard Rodolphe de Haller,0,Director,First Division,Mandates Section,1897,1938,1,1,1940,7,31,Swiss,,41,,,,,,Europe,Leadership and Functional Sections,Mandates Section
@@ -678,7 +678,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5350,C. E. Mascarenyes,0,Temporary Collaborator,First Division,Information Section,,1937,9,9,1937,9,30,Spanish,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5351,Hideo Masutani,0,Member of Section,First Division,Economic and Financial Section,1901,1926,8,16,1927,5,25,Japanese,,25,,,,,,Asia,Leadership and Functional Sections,Economic & Financial Section
 5352,Armi Inkeri Hallstein-Kallia,1,Member of Section,First Division,Intellectual Cooperation and International Bureaux Section,1897,1926,6,15,1936,6,15,Finish,,29,,,,,,Europe,Leadership and Functional Sections,Intel. Cooperation & Int. Bureaux Section
-5353,Erik Andreas Colban,0,Director,First Division,Administrative Commissions and Minorities Section,1876,1919,6,12,1927,12,17,Norwegian,,43,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5353,Erik Andreas Colban,0,Director,First Division,Administrative Commissions and Minorities Section,1876,1919,6,12,1927,12,17,Norwegian,,43,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5353,Erik Andreas Colban,0,Director,First Division,Disarmament Section,1876,1927,12,17,1930,7,9,Norwegian,,51,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
 5354,Edvard Hambro,0,Temporary Collaborator,First Division,Information Section,1911,1933,9,22,1933,10,13,Norwegian,,22,,,,,,Europe,Leadership and Functional Sections,Information Section
 5355,Dr. Joost Adriaan van Hamel,0,Director,First Division,Legal Section,1880,1919,6,12,1926,2,20,Dutch,,39,,,,,,Europe,Leadership and Functional Sections,Legal Section
@@ -697,7 +697,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5368,Ivan Milec,0,Member of Section,First Division,Economic and Financial Section,1896,1923,6,18,1924,6,30,Czech,,27,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 5369,Robert Roy Douglas Milligan,0,Temporary Collaborator,First Division,Information Section,1893,1936,9,17,1936,10,16,New Zealander,,43,,,,,,Oceania,Leadership and Functional Sections,Information Section
 5370,Menlio Minozzi,0,Temporary Collaborator,First Division,Information Section,1890,1931,8,31,1931,9,21,Italian,,41,,,,,,Europe,Leadership and Functional Sections,Information Section
-5371,Vladimir Miselj,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1889,1921,7,16,1940,1,31,Yugoslav,,32,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5371,Vladimir Miselj,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1889,1921,7,16,1940,1,31,Yugoslav,,32,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5372,Janet Mitchell,1,Temporary Collaborator,First Division,Information Section,,1935,9,5,1935,9,26,British,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5373,Ionel Mocsonyi-Styrcea,0,Member of Section,First Division,Information Section,1909,1937,5,1,1940,7,13,Romanian,,28,,,,,,Europe,Leadership and Functional Sections,Information Section
 5374,Victor Mogens,0,Temporary Collaborator,First Division,Information Section,,1930,9,8,1930,9,29,Norwegian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
@@ -762,7 +762,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5423,Prof. William E. Rappard,0,Director,First Division,Mandates Section,1883,1920,11,1,1924,12,31,Swiss,,37,,,,,,Europe,Leadership and Functional Sections,Mandates Section
 5424,Louis Rasminsky,0,Member of Section,First Division,Financial Section & Economic Intelligence Service,1908,1930,3,3,1943,6,30,Canadian,,22,,,,,,Americas,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
 5425,Jal Jemshid Dalal,0,Member of Section,First Division,Legal Section,1898,1926,6,21,1934,1,1,Indian,,28,,,,,,Asia,Leadership and Functional Sections,Legal Section
-5425,Jal Jemshid Dalal,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1898,1934,1,1,1940,1,31,Indian,,36,,,,,,Asia,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5425,Jal Jemshid Dalal,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1898,1934,1,1,1940,1,31,Indian,,36,,,,,,Asia,Leadership and Functional Sections,Minorities Section
 5426,Christo Danailoff,0,Temporary Collaborator,First Division,Information Section,,1933,9,23,1933,10,14,Bulgarian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5427,L. Dark,0,Temporary Collaborator,First Division,Information Section,,1920,9,,1920,,,,,,,,,,,,Leadership and Functional Sections,Information Section
 5428,Thora Daugaard,1,Temporary Collaborator,First Division,Information Section,1874,1934,9,9,1934,9,30,Dane,,60,,,,,,Europe,Leadership and Functional Sections,Information Section
@@ -792,7 +792,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5442,Dr. Robert Henri Hazemann,0,Expert/Specialist,First Division,Health Section,1897,1937,11,4,1939,10,10,French,,40,,,,,,Europe,Leadership and Functional Sections,Health Section
 5443,Eduardo Diez de Medina,0,Correspondent,Second Division,League of Nations,1882,1933,8,1,1938,12,31,Bolivian,,51,,,,,,Americas,Internal Administration and Operations,League of Nations
 5444,Fernando Diez de Medina,0,Correspondent,Second Division,League of Nations,1908,1939,1,1,1946,7,31,Bolivian,,31,,,,,,Americas,Internal Administration and Operations,League of Nations
-5445,Abol-Hassan Khan Hekimi,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1888,1926,8,1,1941,5,31,Iranian,,38,,,,,,Asia,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5445,Abol-Hassan Khan Hekimi,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1888,1926,8,1,1941,5,31,Iranian,,38,,,,,,Asia,Leadership and Functional Sections,Minorities Section
 5446,Detcho Dimitroff,0,Temporary Collaborator,First Division,Information Section,1898,1931,8,31,1932,9,21,Bulgarian,,33,,,,,,Europe,Leadership and Functional Sections,Information Section
 5447,Bengt Helger,0,Expert/Specialist,First Division,Financial Section & Economic Intelligence Service,,1938,1,24,1939,3,28,Swedish,,,,,,,,Europe,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
 5448,Daniel Henao,0,Temporary Collaborator,First Division,Intellectual Cooperation and International Bureaux Section,1904,1938,11,8,1939,1,27,Colombian,,34,,,,,,Americas,Leadership and Functional Sections,Intel. Cooperation & Int. Bureaux Section
@@ -884,7 +884,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5511,Alfred Eduard Husslein,0,Member of Section,First Division,Economic and Financial Section,1889,1927,4,25,1934,4,24,German,,38,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 5513,N. B. Huysman,0,Temporary Collaborator,First Division,Information Section,,1938,9,9,1938,9,30,,,,,,,,,,Leadership and Functional Sections,Information Section
 5514,Jan Vaclac Hyka,0,Expert/Specialist,First Division,Information Section,1889,1937,10,4,1940,10,3,Czech,,48,,,,,,Europe,Leadership and Functional Sections,Information Section
-5515,Edouard Fanniere,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1891,1920,3,,1924,11,,US-American,,29,,,,,,Americas,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5515,Edouard Fanniere,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1891,1920,3,,1924,11,,US-American,,29,,,,,,Americas,Leadership and Functional Sections,Minorities Section
 5515,Huntington Gilchrist,0,Personal Assistant,First Division,Under-Secretary-General's Office,1891,1919,9,28,1920,3,,US-American,,28,,,,,,Americas,Leadership and Functional Sections,USG Office
 5515,Huntington Gilchrist,0,Member of Section,First Division,Mandates Section,1891,1924,11,,1928,6,30,US-American,,33,,,,,,Americas,Leadership and Functional Sections,Mandates Section
 5516,Hossein Zandjani,0,Temporary Collaborator,First Division,Information Section,,1938,9,13,1939,3,31,Persian,,,,,,,,Asia,Leadership and Functional Sections,Information Section
@@ -934,7 +934,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5562,Marcel Rosenberg,0,Under Secretary General,First Division,Under-Secretary-General's Office,,1935,1,1,1936,8,26,Russian,,,,,,,,Europe,Leadership and Functional Sections,USG Office
 5563,Johan Ansgar Esaias Rosenborg,0,Member of Section,First Division,Financial Section & Economic Intelligence Service,1893,1921,7,20,1946,7,31,Swedish,,28,,,,,,Europe,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
 5564,Gudlangur Rosinkranz,0,Temporary Collaborator,First Division,Information Section,,1938,9,8,1938,9,24,Icelander,,,,,,,,Europe,Leadership and Functional Sections,Information Section
-5565,Helmer Rostgaard Gommesen Rosting,0,Member of Section,First Division,Administrative Commissions and Minorities Section,,1920,5,16,1936,1,15,Dane,,,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+5565,Helmer Rostgaard Gommesen Rosting,0,Member of Section,First Division,Administrative Commissions and Minorities Section,,1920,5,16,1936,1,15,Dane,,,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5566,Dr. Alexandre Roubakine,0,Expert/Specialist,First Division,Health Section,,1929,2,11,1932,8,31,Russian,,,,,,,,Europe,Leadership and Functional Sections,Health Section
 5568,Jaques Léon Rueff,0,Member of Section,First Division,Economic and Financial Section,,1927,2,28,1930,5,31,French,,,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 5569,Dr. Hector Rulot,0,Member of Section,First Division,Health Section,1877,1922,9,1,1924,12,31,Belgian,,45,,,,,,Europe,Leadership and Functional Sections,Health Section
@@ -1212,7 +1212,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 8644,Alice Woodall Fraser,1,Senior Assistant,Second Division,Archives,1904,1928,2,20,1929,1929,7,British,,24,,,,,,Europe,Internal Administration and Operations,Archives
 8645,Faith Mary Freeman,1,Shorthand Typist,Second Division,Pool,1888,1920,8,23,1921,4,3,British,,32,,,,,,Europe,Internal Administration and Operations,Pool
 8645,Faith Mary Freeman,1,Assistant Superintendant,First Division,Pool,1888,1921,3,10,1921,4,20,British,,33,,,,,,Europe,Internal Administration and Operations,Pool
-8646,Lettie Frere,1,Secretary,Second Division,Administrative Commissions and Minorities Section,,1919,7,1,1920,2,17,British,,,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+8646,Lettie Frere,1,Secretary,Second Division,Administrative Commissions and Minorities Section,,1919,7,1,1920,2,17,British,,,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 8647,Anna Frick,1,Cleaner,Third Division,Auxiliary Staff,1891,1926,4,1,1939,2,28,Swiss,,35,,,,,,Europe,Internal Administration and Operations,Auxiliary Staff
 8648,Gertrude Freidman,1,Shorthand Typist,Second Division,Pool,1888,1920,11,16,1921,2,28,British,,32,,,,,,Europe,Internal Administration and Operations,Pool
 8648,Gertrude Freidman,1,Stenographer,Second Division,Pool,1888,1921,3,1,1921,8,15,British,,33,,,,,,Europe,Internal Administration and Operations,Pool
@@ -1355,10 +1355,10 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 8760,Gottfried Goetz,0,Cleaner,Third Division,Auxiliary Staff,1895,1946,3,4,1946,7,31,Swiss,,51,,,,,,Europe,Internal Administration and Operations,Auxiliary Staff
 8761,Jean-Jacques Goetz,0,Copyholder,Second Division,Printing & Publishing Department,1915,1933,9,25,1933,10,11,Swiss,,18,,,,,,Europe,Internal Administration and Operations,Printing & Publishing Dept.
 8762,Tamara Goetze,1,Copyist,Second Division,Pool,1900,1922,8,7,1923,8,13,Russian,,22,,,,,,Europe,Internal Administration and Operations,Pool
-8762,Tamara Goetze,1,Secretary Shorthand-Typist,Second Division,Administrative Commissions and Minorities Section,1900,1923,12,10,1933,10,26,Russian,,23,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+8762,Tamara Goetze,1,Secretary Shorthand-Typist,Second Division,Administrative Commissions and Minorities Section,1900,1923,12,10,1933,10,26,Russian,,23,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 8762,Tamara Goetze,1,Shorthand Typist,Second Division,Pool,1900,1923,8,13,1923,12,9,Russian,,23,,,,,,Europe,Internal Administration and Operations,Pool
 8762,Tamara Goetze,1,Secretary Shorthand-Typist,Second Division,Political Section,1900,1933,10,27,1933,12,31,Russian,,33,,,,,,Europe,Leadership and Functional Sections,Political Section
-8762,Tamara Goetze,1,Secretary Shorthand-Typist,Second Division,Administrative Commissions and Minorities Section,1900,1934,6,1,1940,5,18,Russian,,34,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+8762,Tamara Goetze,1,Secretary Shorthand-Typist,Second Division,Administrative Commissions and Minorities Section,1900,1934,6,1,1940,5,18,Russian,,34,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 8762,Tamara Goetze,1,Secretary Shorthand-Typist,Second Division,Pool,1900,1934,1,1,1934,5,31,Russian,,34,,,,,,Europe,Internal Administration and Operations,Pool
 8763,Alice Golay,1,Copyist,Second Division,Duplicating & Multigraph Service,1903,1927,9,5,1927,9,27,Swiss,,24,,,,,,Europe,Internal Administration and Operations,Duplicating & Multigraph Service
 8764,Grace Mary Golay née O'Sullivan,1,Shorthand Typist,Second Division,Refugee Section,1896,1930,1,1,1931,3,31,Swiss,,34,,,,,,Europe,Leadership and Functional Sections,Refugee Section
@@ -1780,7 +1780,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9052,Louise Aimée Mayras,1,Shorthand Typist,Second Division,Barcelona Conference,1891,1921,3,7,1921,4,24,French,,30,,,,,,Europe,Special Commissions/Committees and Conferences,Barcelona Conf.
 9052,Louise Aimée Mayras,1,Shorthand Typist,Second Division,Pool,1891,1921,4,25,1921,10,31,French,,30,,,,,,Europe,Internal Administration and Operations,Pool
 9052,Louise Aimée Mayras,1,Secretary Shorthand-Typist,Second Division,Deputy Secretary-General's Office,1891,1922,4,10,1933,12,31,French,,31,,,,,,Europe,Leadership and Functional Sections,Deputy Secretary-General's Office
-9052,Louise Aimée Mayras,1,Secretary of Section,Second Division,Administrative Commissions and Minorities Section,1891,1934,1,1,1940,1,31,French,,43,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+9052,Louise Aimée Mayras,1,Secretary of Section,Second Division,Administrative Commissions and Minorities Section,1891,1934,1,1,1940,1,31,French,,43,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 9053,Christine Bertha Margarethe Mayrhofer,1,Senior Assistant,Second Division,Economic and Financial Section,1885,1928,1,1,1934,6,30,Austrian,,43,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 9053,Christine Bertha Margarethe Mayrhofer,1,Clerk,Second Division,Economic and Financial Section,1885,1921,3,23,1924,11,30,Austrian,,36,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 9053,Christine Bertha Margarethe Mayrhofer,1,Junior Assistant,Second Division,Economic and Financial Section,1885,1924,12,1,1927,12,31,Austrian,,39,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
@@ -2499,7 +2499,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9525,Cecilia Bernardine Oppenheimer,1,Secretary,Second Division,Legal Section,1880,1919,8,1,1920,10,31,Dutch,,39,,,,,,Europe,Leadership and Functional Sections,Legal Section
 9525,Cecilia Bernardine Oppenheimer,1,Assistant,Second Division,Legal Section,1880,1920,11,1,1921,12,31,Dutch,,40,,,,,,Europe,Leadership and Functional Sections,Legal Section
 9525,Cecilia Bernardine Oppenheimer,1,Senior Assistant,Second Division,Legal Section,1880,1922,1,1,1924,10,5,Dutch,,42,,,,,,Europe,Leadership and Functional Sections,Legal Section
-9525,Cecilia Bernardine Oppenheimer,1,Senior Assistant,Second Division,Administrative Commissions and Minorities Section,1880,1924,10,6,1938,8,4,Dutch,,44,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+9525,Cecilia Bernardine Oppenheimer,1,Senior Assistant,Second Division,Administrative Commissions and Minorities Section,1880,1924,10,6,1938,8,4,Dutch,,44,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 9526,Werner Oppikofer,0,Précis Writer,First Division,Précis-Writing Department,1904,1928,6,22,1928,6,30,Swiss,,24,,,,,,Europe,Internal Administration and Operations,Précis-Writing Dept.
 9527,Henri Charles Oppliger,0,Electrician,Third Division,Auxiliary Staff,1911,1937,6,1,1940,2,26,Swiss,,26,,,,,,Europe,Internal Administration and Operations,Auxiliary Staff
 9528,Gerard O'Rooney,0,Translator,First Division,Translation,1889,1925,8,24,1925,9,29,British,,,,,,,,Europe,Internal Administration and Operations,Translation
@@ -2867,7 +2867,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9730,Kathleen Ellen Rafferty,1,Shorthand Typist,Second Division,Economic and Financial Section,1897,1922,8,18,1925,1,1,British,,25,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 9730,Kathleen Ellen Rafferty,1,Shorthand Typist,Second Division,Pool,1897,1922,2,6,1922,8,18,British,,25,,,,,,Europe,Internal Administration and Operations,Pool
 9730,Kathleen Ellen Rafferty,1,Secretary Shorthand-Typist,Second Division,Pool,1897,1925,1,1,1928,6,15,British,,28,,,,,,Europe,Internal Administration and Operations,Pool
-9731,Elizabeth Lindsay King,1,Shorthand Typist,Second Division,Administrative Commissions and Minorities Section,1905,1929,4,17,1929,4,24,British,,24,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+9731,Elizabeth Lindsay King,1,Shorthand Typist,Second Division,Administrative Commissions and Minorities Section,1905,1929,4,17,1929,4,24,British,,24,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 9733,Muriel Agnes King,1,Shorthand Typist,Second Division,Pool,1895,1926,9,6,1926,9,26,British,,31,,,,,,Europe,Internal Administration and Operations,Pool
 9733,Muriel Agnes King,1,Shorthand Typist,Second Division,Pool,1895,1926,10,12,1926,11,30,British,,31,,,,,,Europe,Internal Administration and Operations,Pool
 9733,Muriel Agnes King,1,Shorthand Typist,Second Division,Pool,1895,1926,6,25,1926,7,10,British,,31,,,,,,Europe,Internal Administration and Operations,Pool
@@ -3288,7 +3288,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 9969,Héléne Ducrot,1,Shorthand Typist,Second Division,Pool,1891,1925,6,7,1925,12,31,French,,34,,,,,,Europe,Internal Administration and Operations,Pool
 4967,Giacomo Paulucci di Calboli Barone,0,Under Secretary General,First Division,Under Secretary-Generals' in charge of Internal Administration Office,,1927,3,27,1932,11,8,Italian,,,,,,,,Europe,Leadership and Functional Sections,USG Internal Administration Office
 9970,Florence Margaret Dudgeon,1,Secretary,Second Division,Staff Pensions Fund,1889,1921,1,20,1921,12,31,Irish,,32,,,,,,Europe,Special Commissions/Committees and Conferences,Staff Pensions Fund
-9970,Florence Margaret Dudgeon,1,Secretary,Second Division,Administrative Commissions and Minorities Section,1889,1922,1,1,1922,8,15,Irish,,33,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+9970,Florence Margaret Dudgeon,1,Secretary,Second Division,Administrative Commissions and Minorities Section,1889,1922,1,1,1922,8,15,Irish,,33,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 9971,Edmond Albert Dufey,0,Clerk,Second Division,Economic Relations Section,1902,1928,1,9,1940,5,17,Swiss,,26,,,,,,Europe,Leadership and Functional Sections,Economic Relations Section
 9972,Pierre Duflon,0,Messenger,Second Division,Distribution of Documents,1903,1932,1,20,1932,3,18,Swiss,,29,,,,,,Europe,Internal Administration and Operations,Distribution of Documents
 9972,Pierre Duflon,0,Messenger,Second Division,Distribution of Documents,1903,1932,4,11,1932,6,18,Swiss,,29,,,,,,Europe,Internal Administration and Operations,Distribution of Documents
@@ -3617,7 +3617,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10173,Marie Henriette Schmitt,1,Clerk,Second Division,Library,1888,1923,10,1,1923,12,31,French,,35,,,,,,Europe,Internal Administration and Operations,Library
 10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Pool,1888,1923,8,1,1923,9,30,French,,35,,,,,,Europe,Internal Administration and Operations,Pool
 10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Pool,1888,1924,1,1,1926,5,31,French,,36,,,,,,Europe,Internal Administration and Operations,Pool
-10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Administrative Commissions and Minorities Section,1888,1926,6,1,1933,12,31,French,,38,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Administrative Commissions and Minorities Section,1888,1926,6,1,1933,12,31,French,,38,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 10173,Marie Henriette Schmitt,1,Shorthand Typist,Second Division,Pool,1888,1934,1,1,1940,5,17,French,,46,,,,,,Europe,Internal Administration and Operations,Pool
 10174,Lyle Lester Schmitter,0,Clerk,Second Division,Financial Section & Economic Intelligence Service,1906,1935,1,8,1936,1,7,US-American,,29,,,,,,Americas,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
 10175,Fritz Schnabel,0,Head of Office,First Division,Publications Service,1886,1927,4,1,1939,5,31,German,,41,,,,,,Europe,Internal Administration and Operations,Publications Service
@@ -3764,7 +3764,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10266,Tarini Prasad Sinha,0,Assistant,Second Division,Social Questions and Opium Traffic Section,1896,1932,3,11,1932,5,10,Indian,,36,,,,,,Asia,Leadership and Functional Sections,Social Questions & Opium Traffic Section
 10267,Marguerite Sinner,1,Copyist,Second Division,Pool,1895,1925,10,1,1925,12,19,Swiss,,30,,,,,,Europe,Internal Administration and Operations,Pool
 10267,Marguerite Sinner,1,Copyist,Second Division,Pool,1895,1926,3,9,1926,12,31,Swiss,,31,,,,,,Europe,Internal Administration and Operations,Pool
-10268,Rasmus Ingvald Berentson Skylstad,0,Director,First Division,Administrative Commissions and Minorities Section,1893,1938,1,1,1942,3,1,Norwegian,,45,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+10268,Rasmus Ingvald Berentson Skylstad,0,Director,First Division,Administrative Commissions and Minorities Section,1893,1938,1,1,1942,3,1,Norwegian,,45,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 10269,Ruth Emelie Viktoria Slagbrand,1,Stenographer,Second Division,Pool,1900,1925,9,7,1925,12,31,Swedish,,25,,,,,,Europe,Internal Administration and Operations,Pool
 10270,Cornelia Johannes Slager,0,Messenger,Second Division,Conference for the Codification of International Law,1908,1930,3,13,1930,12,31,Dutch,,22,,,,,,Europe,Special Commissions/Committees and Conferences,Conf. Codification of International Law
 10271,Violet Slatter,1,Shorthand Typist,Second Division,Pool,1888,1926,4,26,1926,9,26,British,,38,,,,,,Europe,Internal Administration and Operations,Pool
@@ -4604,7 +4604,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10759,Nancy Williams,1,Assistant Secretary,Second Division,Disarmament Section,1891,1921,9,1,1923,8,31,British,,30,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
 10759,Nancy Williams,1,Shorthand Typist,Second Division,Pool,1891,1921,8,7,1921,8,31,British,,30,,,,,,Europe,Internal Administration and Operations,Pool
 10759,Nancy Williams,1,Member of Section,First Division,Personnel Office,1891,1927,1,1,1936,8,30,British,,36,,,,,,Europe,Internal Administration and Operations,Personnel Office
-10759,Nancy Williams,1,Member of Section,First Division,Administrative Commissions and Minorities Section,1891,1936,8,31,1939,1,31,British,,45,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+10759,Nancy Williams,1,Member of Section,First Division,Administrative Commissions and Minorities Section,1891,1936,8,31,1939,1,31,British,,45,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 10760,Edith Mary Williamson,1,Shorthand Typist,Second Division,Pool,1902,1927,2,14,1928,5,6,British,,25,,,,,,Europe,Internal Administration and Operations,Pool
 10760,Edith Mary Williamson,1,Secretary Shorthand-Typist,Second Division,Publications Service,1902,1928,5,7,1933,8,13,British,,26,,,,,,Europe,Internal Administration and Operations,Publications Service
 10760,Edith Mary Williamson,1,Secretary Shorthand-Typist,Second Division,Disarmament Section,1902,1933,8,14,1940,1,31,British,,31,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
@@ -4668,7 +4668,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 10799,Charles Wyttenbach,0,Cleaner,Third Division,Auxiliary Staff,1903,1928,3,2,1928,4,30,Swiss,,25,,,,,,Europe,Internal Administration and Operations,Auxiliary Staff
 10800,Lucie Marie Wyttenbach née Genier,1,Messenger,Second Division,Library,1905,1921,4,28,1925,7,9,Swiss,,16,,,,,,Europe,Internal Administration and Operations,Library
 10801,Emily Duncan Johnston,1,Shorthand Typist,Second Division,Pool,1895,1920,5,8,1921,1,4,British,,25,,,,,,Europe,Internal Administration and Operations,Pool
-10801,Emily Duncan Johnston,1,Secretary Shorthand-Typist,Second Division,Administrative Commissions and Minorities Section,1895,1921,1,4,1930,6,10,British,,26,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+10801,Emily Duncan Johnston,1,Secretary Shorthand-Typist,Second Division,Administrative Commissions and Minorities Section,1895,1921,1,4,1930,6,10,British,,26,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 10801,Emily Duncan Johnston,1,Shorthand Typist,Second Division,Secretary-General's Office,1895,1930,6,10,1933,7,1,British,,35,,,,,,Europe,Leadership and Functional Sections,Secretary-General's Office
 10801,Emily Duncan Johnston,1,Shorthand Typist,Second Division,Under Secretaries-Generals' in charge of Political Section Office,1895,1933,7,1,1947,4,8,British,,38,,,,,,Europe,Leadership and Functional Sections,USG Political Section Office
 10801,Emily Duncan Johnston,1,Minute Writer,Second Division,Board of Liquidation,1895,1947,4,8,1947,4,30,British,,52,,,,,,Europe,Special Commissions/Committees and Conferences,Board of Liquidation
@@ -5451,7 +5451,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11266,Lucienne Valentine Désirée Lienard,1,Shorthand Typist,Second Division,Pool,1903,1926,7,19,1926,9,25,French,,23,,,,,,Europe,Internal Administration and Operations,Pool
 11267,Yette Lieugme,1,Sorter,Third Division,Duplicating & Multigraph Service,1909,1933,9,25,1933,10,11,Swiss,,24,,,,,,Europe,Internal Administration and Operations,Duplicating & Multigraph Service
 11268,Dr. Helgo Lindstedt,0,Statistical Assistant,Second Division,Health Section,1887,1925,12,11,1926,12,31,Swedish,,38,,,,,,Europe,Leadership and Functional Sections,Health Section
-11269,Gunhild Lippestad,1,Secretary,Second Division,Administrative Commissions and Minorities Section,1885,1920,4,15,1933,10,27,Norwegian,,35,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+11269,Gunhild Lippestad,1,Secretary,Second Division,Administrative Commissions and Minorities Section,1885,1920,4,15,1933,10,27,Norwegian,,35,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 11269,Gunhild Lippestad,1,Secretary,Second Division,Political Section,1885,1933,10,27,1940,3,31,Norwegian,,48,,,,,,Europe,Leadership and Functional Sections,Political Section
 11270,Jacques André Lippetz,0,Clerk,Second Division,Distribution of Documents,1907,1927,9,1,1927,9,27,Swiss,,20,,,,,,Europe,Internal Administration and Operations,Distribution of Documents
 11270,Jacques André Lippetz,0,Clerk,Second Division,Distribution of Documents,1907,1928,8,30,1928,9,26,Swiss,,21,,,,,,Europe,Internal Administration and Operations,Distribution of Documents
@@ -5682,7 +5682,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11399,Elsie Charlotte Harknett,1,Copyist,Second Division,Pool,1901,1926,9,6,1926,9,25,British,,25,,,,,,Europe,Internal Administration and Operations,Pool
 11400,Olive Lilian Harrington,1,Stenographer,Second Division,Pool,1896,1926,9,2,1926,9,25,British,,30,,,,,,Europe,Internal Administration and Operations,Pool
 11401,Constance Myra Harris,1,Shorthand Typist,Second Division,Pool,1896,1919,8,12,1922,10,30,British,,23,,,,,,Europe,Internal Administration and Operations,Pool
-11401,Constance Myra Harris,1,Secretary,Second Division,Administrative Commissions and Minorities Section,1896,1922,11,1,1933,11,26,British,,26,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+11401,Constance Myra Harris,1,Secretary,Second Division,Administrative Commissions and Minorities Section,1896,1922,11,1,1933,11,26,British,,26,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 11401,Constance Myra Harris,1,Secretary,Second Division,Central Section,1896,1933,11,27,1940,10,11,British,,37,,,,,,Europe,Leadership and Functional Sections,Central Section
 11401,Constance Myra Harris,1,Head of Office,First Division,Personnel Office,1896,1946,10,,1947,8,18,British,,50,,,,,,Europe,Internal Administration and Operations,Personnel Office
 11402,Marjorie Isobel Harris,1,Shorthand Typist,Second Division,Pool,1898,1938,9,19,1938,9,24,British,,40,,,,,,Europe,Internal Administration and Operations,Pool
@@ -5787,8 +5787,8 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11447,Ethel Herdman,1,Assistant,Second Division,Registry,1887,1920,6,7,1921,6,30,British,,33,,,,,,Europe,Internal Administration and Operations,Registry
 11448,Florence Herdman,1,Assistant Librarian,Second Division,Library,1890,1921,3,12,1921,10,15,British,,31,,,,,,Europe,Internal Administration and Operations,Library
 11449,Gustave Paul Henri Hermin,0,Messenger,Second Division,Auxiliary Staff,1913,1936,2,3,1947,7,31,Swiss,,23,,,,,,Europe,Internal Administration and Operations,Auxiliary Staff
-11450,Emilia Claire Hernya,1,Assistant Secretary,Second Division,Administrative Commissions and Minorities Section,1893,1920,2,5,1923,8,29,Australian,,27,,,,,,Oceania,Leadership and Functional Sections,Adm. Comms. & Minorities Section
-11450,Emilia Claire Hernya,1,Stenographer,Second Division,Administrative Commissions and Minorities Section,1893,1920,2,5,1923,8,29,Australian,,27,,,,,,Oceania,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+11450,Emilia Claire Hernya,1,Assistant Secretary,Second Division,Administrative Commissions and Minorities Section,1893,1920,2,5,1923,8,29,Australian,,27,,,,,,Oceania,Leadership and Functional Sections,Minorities Section
+11450,Emilia Claire Hernya,1,Stenographer,Second Division,Administrative Commissions and Minorities Section,1893,1920,2,5,1923,8,29,Australian,,27,,,,,,Oceania,Leadership and Functional Sections,Minorities Section
 11451,Germán Herrera,0,Secretary Stenographer,Second Division,Information Section,1879,1921,5,18,1923,6,30,Peruvian,,42,,,,,,Americas,Leadership and Functional Sections,Information Section
 11452,Nafla Herrera-Dugenne,1,Copyholder,Second Division,Printing & Publishing Department,1905,1924,5,20,1924,8,31,Peruvian,,19,,,,,,Americas,Internal Administration and Operations,Printing & Publishing Dept.
 11453,Liba Hersch,1,Assistant,Second Division,Disarmament Section,1882,1924,7,22,1924,8,7,Polish,,42,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
@@ -6104,7 +6104,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 11597,Jeanne Caron,1,French Translator,First Division,Translation Section,1887,1938,4,13,1938,11,30,French,,51,,,,,,Europe,Internal Administration and Operations,Translation Section
 11598,Prof. K.R. Brotherus,0,Temporary Collaborator,First Division,Information Section,,1926,5,17,1926,9,15,Finish,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 11598,Prof. K.R. Brotherus,0,Temporary Collaborator,First Division,Information Section,,1926,9,16,1926,9,28,Finish,,,,,,,,Europe,Leadership and Functional Sections,Information Section
-11599,Margaret Brear,1,Shorthand Typist,Second Division,Administrative Commissions and Minorities Section,1895,1921,3,1,1934,7,31,British,,26,,,,,,Europe,Leadership and Functional Sections,Adm. Comms. & Minorities Section
+11599,Margaret Brear,1,Shorthand Typist,Second Division,Administrative Commissions and Minorities Section,1895,1921,3,1,1934,7,31,British,,26,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 11600,Lily Braun,1,Senior Assistant,Second Division,Library,1895,1920,11,18,1924,,,Swiss,,25,,,,,,Europe,Internal Administration and Operations,Library
 11601,Albert Brasier,0,Cleaner,Third Division,Auxiliary Staff,1896,1936,2,12,1936,2,29,French,,40,,,,,,Europe,Internal Administration and Operations,Auxiliary Staff
 11601,Albert Brasier,0,Cleaner,Third Division,Auxiliary Staff,1896,1936,4,22,1936,5,2,French,,40,,,,,,Europe,Internal Administration and Operations,Auxiliary Staff

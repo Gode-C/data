@@ -212,7 +212,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 4979,Ermentrude Baecker von Ranke,1,Temporary Collaborator,First Division,Information Section,,1928,9,5,1928,9,19,German,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 4980,Vitas Charalampe,0,Temporary Collaborator,First Division,Information Section,,1933,7,10,1933,7,24,Greek,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 4981,A. Gordon Bagnall,0,Temporary Collaborator,First Division,Information Section,,1935,6,14,1935,6,20,British,,,,,,,,Europe,Leadership and Functional Sections,Information Section
-4982,Artur Maciel,0,Temporary Collaborator,First Division,Information Section,,1935,9,5,1935,9,26,Portugese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
+4982,Artur Maciel,0,Temporary Collaborator,First Division,Information Section,,1935,9,5,1935,9,26,Portuguese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 4983,Olavi Tapio Voionmaa,0,Member of Section,First Division,Financial Section & Economic Intelligence Service,1896,1929,2,1,1937,11,30,Finish,,33,,,,,,Europe,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
 4984,Ap. Apostolopoulos,0,Temporary Collaborator,First Division,Information Section,,1932,9,19,1932,10,10,Greek,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 4985,Stanley Hartnoll Bailey,0,Secretary,Second Division,Social Questions and Opium Traffic Section,1904,1938,4,13,1938,4,13,British,,34,,,,,,Europe,Leadership and Functional Sections,Social Questions & Opium Traffic Section
@@ -272,13 +272,13 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5024,Hans Christian Berg,0,Member of Section,First Division,Social Questions and Opium Traffic Section,1893,1924,1,3,1934,10,31,Norwegian,,31,,,,,,Europe,Leadership and Functional Sections,Social Questions & Opium Traffic Section
 5024,Hans Christian Berg,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1893,1924,1,3,1934,10,31,Norwegian,,31,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5025,Jussi Teljo,0,Temporary Collaborator,First Division,Information Section,,1938,9,9,1938,9,27,Finish,,,,,,,,Europe,Leadership and Functional Sections,Information Section
-5026,José Lebre Barbosa Magalhaes,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1923,2,23,1925,3,31,Portugese,,31,,,,,,Europe,Leadership and Functional Sections,Minorities Section
+5026,José Lebre Barbosa Magalhaes,0,Member of Section,First Division,Administrative Commissions and Minorities Section,1892,1923,2,23,1925,3,31,Portuguese,,31,,,,,,Europe,Leadership and Functional Sections,Minorities Section
 5027,Jost Terhaar,0,Head of Office,First Division,Information Section,1901,1928,6,20,1933,12,31,German,,27,,,,,,Europe,Leadership and Functional Sections,Information Section
 5028,Madeleine Avetenaite,1,Temporary Collaborator,First Division,Information Section,,1935,9,5,1935,9,26,Lithuanian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5029,Bergadini,0,Temporary Collaborator,First Division,Information Section,,1929,8,26,1929,9,14,Italian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5030,Alberto Berio,0,Member of Section,First Division,Under Secretary-Generals' in charge International Bureaux and Intellectual-Co-operation Section Office,1900,1934,11,12,1937,12,13,Italian,,34,,,,,,Europe,Leadership and Functional Sections,USG Int. Bureaux & Intel. Coop. Section Office
 5031,Th. C. Terndrup,0,Temporary Collaborator,First Division,Information Section,,1929,8,30,1929,9,6,Dane,,,,,,,,Europe,Leadership and Functional Sections,Information Section
-5032,Dr. Lobo d'Avila Lima,0,Temporary Collaborator,First Division,Information Section,,1928,2,20,1928,3,14,Portugese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
+5032,Dr. Lobo d'Avila Lima,0,Temporary Collaborator,First Division,Information Section,,1928,2,20,1928,3,14,Portuguese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5033,Hüseyin Avni,0,Temporary Collaborator,First Division,Information Section,,1931,8,31,1931,9,21,Turkish,,,,,,,,Asia,Leadership and Functional Sections,Information Section
 5034,Ugo Theodoli,0,Member of Section,First Division,Central Opium Board,1886,1929,7,1,1937,12,31,Italian,,43,,,,,,Europe,Special Commissions/Committees and Conferences,Central Opium Board
 5035,Dr. Wallace Ruddell Aykroyd,0,Member of Section,First Division,Health Section,1899,1931,8,19,1935,5,23,British,,32,,,,,,Europe,Leadership and Functional Sections,Health Section
@@ -349,8 +349,8 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5093,Candido Sahini,0,Secretary,Second Division,Under-Secretary-General's Office,1870,1924,8,24,,,,Italian,,54,,,,,,Europe,Leadership and Functional Sections,USG Office
 5094,Shah Nawaz Sahib,1,Temporary Collaborator,First Division,Information Section,,1931,9,1,1931,9,22,Indian,,,,,,,,Asia,Leadership and Functional Sections,Information Section
 5095,Mohamed Said,0,Temporary Collaborator,First Division,Financial Section & Economic Intelligence Service,1897,1938,12,13,1939,9,3,Egyptian,,41,,,,,,Africa,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
-5096,Fernando Correia Pereira da Silva,0,Temporary Collaborator,First Division,Information Section,,1930,9,3,1930,10,1,Portugese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
-5096,Fernando Correia Pereira da Silva,0,Member of Section,First Division,Mandates Section,,1934,9,3,1941,10,31,Portugese,,,,,,,,Europe,Leadership and Functional Sections,Mandates Section
+5096,Fernando Correia Pereira da Silva,0,Temporary Collaborator,First Division,Information Section,,1930,9,3,1930,10,1,Portuguese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
+5096,Fernando Correia Pereira da Silva,0,Member of Section,First Division,Mandates Section,,1934,9,3,1941,10,31,Portuguese,,,,,,,,Europe,Leadership and Functional Sections,Mandates Section
 5098,Enrique Cañas-Flores,0,Temporary Collaborator,First Division,Information Section,1900,1937,9,9,1937,9,30,Chilean,,37,,,,,,Americas,Leadership and Functional Sections,Information Section
 5099,Robert Marie Capot-Rey,0,Temporary Collaborator,First Division,Information Section,1897,1922,7,13,1922,10,7,French,,25,,,,,,Europe,Leadership and Functional Sections,Information Section
 5100,Efraim Cardoso,0,Correspondent,Second Division,League of Nations,1900,1933,1,1,1935,2,28,Paraguayan,,33,,,,,,Americas,Internal Administration and Operations,League of Nations
@@ -859,7 +859,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5498,Raul Gutiérrez Grenier,0,Temporary Collaborator,First Division,Information Section,,1926,11,22,1926,12,21,,,,,,,,,,Leadership and Functional Sections,Information Section
 5499,J. Graff,1,Temporary Collaborator,First Division,League of Nations,,1934,9,7,1934,9,28,French,,,,,,,,Europe,Internal Administration and Operations,League of Nations
 5500,John MacKey Hodge,0,Member of Section,First Division,Disarmament Section,1881,1923,11,5,1925,12,7,British,,42,,,,,,Europe,Leadership and Functional Sections,Disarmament Section
-5501,Antonio Maria Godinho,0,Temporary Collaborator,First Division,Information Section,,1932,9,19,1932,10,10,Portugese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
+5501,Antonio Maria Godinho,0,Temporary Collaborator,First Division,Information Section,,1932,9,19,1932,10,10,Portuguese,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5502,Teódore Gjurgjević,0,Temporary Collaborator,First Division,Information Section,,1930,9,8,1930,9,29,Yugoslav,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5503,Georges Ghenoff,0,Temporary Collaborator,First Division,Information Section,,1938,9,9,1938,9,30,Bulgarian,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5504,Henri Pierre Hoffer,0,Member of Section,First Division,Intellectual Cooperation and International Bureaux Section,1866,1920,8,14,1921,10,6,Swiss,,54,,,,,,Europe,Leadership and Functional Sections,Intel. Cooperation & Int. Bureaux Section
@@ -899,7 +899,7 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 5526,Antoine Favre,0,Temporary Collaborator,First Division,Information Section,,1931,8,31,1931,9,20,Swiss,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5527,Arthur Elliott Felkin,0,Member of Section,First Division,Economic and Financial Section,,1923,1,15,1938,6,30,British,,,,,,,,Europe,Leadership and Functional Sections,Economic & Financial Section
 5527,Arthur Elliott Felkin,0,Member of Section,First Division,Social Questions and Opium Traffic Section,,1938,7,1,1946,8,31,British,,,,,,,,Europe,Leadership and Functional Sections,Social Questions & Opium Traffic Section
-5528,Narciso de Freire de Anrade,0,Member of Section,First Division,Mandates Section,1899,1928,8,1,1934,5,31,Portugese,,29,,,,,,Europe,Leadership and Functional Sections,Mandates Section
+5528,Narciso de Freire de Anrade,0,Member of Section,First Division,Mandates Section,1899,1928,8,1,1934,5,31,Portuguese,,29,,,,,,Europe,Leadership and Functional Sections,Mandates Section
 5529,Wladimir Felkner,0,Temporary Collaborator,First Division,Russian Refugees Section,,1930,7,15,1931,6,30,Russian,,,,,,,,Europe,Leadership and Functional Sections,Russian Refugees Section
 5530,Dr. Fritz Foth,0,Temporary Collaborator,First Division,Information Section,,1932,9,19,1932,10,10,German,,,,,,,,Europe,Leadership and Functional Sections,Information Section
 5531,J. Salvador Fernandez,0,Temporary Collaborator,First Division,Information Section,,1930,9,9,1930,9,30,,,,,,,,,,Leadership and Functional Sections,Information Section
@@ -6557,8 +6557,8 @@ id,pname,gender,fname,canonical_fname,oname,born_on_year,begin_on_year,begin_on_
 12056,Lucie Courtault,1,Establishment Clerk,Third Division,Paris Office,1885,1920,4,1,1940,11,15,French,,35,,,,,,Europe,External Offices & Relations,Paris Office
 12057,Hélène Couvoisier,1,Messenger,Second Division,Council,1907,1926,3,8,1926,3,18,Swiss,,19,,,,,,Europe,Internal Administration and Operations,Council
 12058,Clarisa Rose Cousins,1,Copyist,Second Division,Stenographic Services,1901,1931,8,17,1932,3,10,British,,30,,,,,,Europe,Internal Administration and Operations,Stenographic Services
-12059,Abilio Coutinho,0,First Class Assistant,First Division,Financial Section & Economic Intelligence Service,1897,1925,1,30,1930,1,26,Portugese,,28,,,,,,Europe,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
-12059,Abilio Coutinho,0,Liaison Officer,First Division,Information Section,1897,1930,1,27,1934,9,30,Portugese,,33,,,,,,Europe,Leadership and Functional Sections,Information Section
+12059,Abilio Coutinho,0,First Class Assistant,First Division,Financial Section & Economic Intelligence Service,1897,1925,1,30,1930,1,26,Portuguese,,28,,,,,,Europe,Leadership and Functional Sections,Financial Section & Eco. Intel. Service
+12059,Abilio Coutinho,0,Liaison Officer,First Division,Information Section,1897,1930,1,27,1934,9,30,Portuguese,,33,,,,,,Europe,Leadership and Functional Sections,Information Section
 12060,Margaret Ken Coutts,1,Shorthand Typist,Second Division,Pool,1897,1927,3,15,1932,6,12,British,,30,,,,,,Europe,Internal Administration and Operations,Pool
 12060,Margaret Ken Coutts,1,Shorthand Typist,Second Division,Health Section,1897,1932,6,13,1933,12,31,British,,35,,,,,,Europe,Leadership and Functional Sections,Health Section
 12060,Margaret Ken Coutts,1,Shorthand Typist,Second Division,Stenographic Services,1897,1934,1,1,1934,8,31,British,,37,,,,,,Europe,Internal Administration and Operations,Stenographic Services
